@@ -1,12 +1,36 @@
-# Site settings
-title: Survival Trial - The Ultimate Test
-email: info@survivaltrial.com
-description: > # this means to ignore newlines until "baseurl:"
-Survival Trial is a survival based adventure race that incorporates orienteering, first aid, disaster response, defensive shooting, and physical obstacles.
-baseurl: "http://jonweiler.github.io/" # the subpath of your site, e.g. /blog/
-url: "http://jonweiler.github.io/" # the base hostname & protocol for your site
-twitter_username: survivaltrial
-github_username:  jonweiler
+# Site wide configuration
 
-# Build settings
-markdown: kramdown
+title:  Survival Trial - The Ultimate Test
+description:  Survival Trial is a survival based adventure race that incorporates land navigation/orienteering, trekking, physical obstacles, mental challenges, distaster response, defensive shooting scenarios, and emergency medical situations.
+logo: stlogo.gif
+teaser: stteaser.gif
+locale:  United States of America
+url: http://localhost:4000
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name:
+  email:  info@survivaltrial.com
+  twitter: survivaltrial
+  google:  
+    ad-client: 
+    ad-slot: 
+  bio: 
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
