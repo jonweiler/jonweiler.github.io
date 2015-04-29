@@ -1,0 +1,19 @@
+# Footer navigation links
+
+- title: Home
+  url:  /
+  
+- title: Register
+  url:  http://store-survivaltrial-com.3dcartstores.com/
+  
+- title: Contact Us
+  url:  /contact/
+  
+- title: Packing List
+  url:  /packing/
+  
+- title: Competitors
+  url:  /competitors/
+  
+- title: Blog
+  url:  /blog/
