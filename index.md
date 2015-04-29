@@ -1,11 +1,11 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Welcome Aboard"
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+This is the new and improved home page of the survival trial
+
+Have a look around and tell us what you think
+
+Are you up for the ultimate test?
