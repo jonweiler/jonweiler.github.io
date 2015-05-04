@@ -5,9 +5,14 @@
   excerpt:  "Register for an upcoming Survival Trial"
   image:  stmenu.gif
   
+- title: Learn
+  url:  /about/
+  excerpt:  "About Survival Trial"
+  image:  stmenu.gif
+  
 - title: Contact Us 
   url:  /contact/
-  excerpt:  "Register for an upcoming Survival Trial"
+  excerpt:  "Have questions about Survival Trial?"
   image:  stmenu.gif
   
 - title: Packing List

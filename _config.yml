@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:  Survival Trial - The Ultimate Test
+title:  Survival Trial 
 description:  Survival Trial is a survival based adventure race that incorporates land navigation/orienteering, trekking, physical obstacles, mental challenges, distaster response, defensive shooting scenarios, and emergency medical situations.
 logo: stlogo.gif
 teaser: stteaser.gif
 locale:  United States of America
-url: //jonweiler.github.io/index
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -22,7 +22,7 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name:  Jon Weiler
   email:  info@survivaltrial.com
   twitter: survivaltrial
   google:
