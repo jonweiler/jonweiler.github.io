@@ -38,4 +38,6 @@ permalink: /about/
   <p>Survival Trial is open to every person, aged 18 and over.  It does not matter your Gender, Profession, or Lifestyle.  We want to help you establish a New Normal.</p> 
   
   <p><img src="/images/stfnt (1).jpg" alt="RubyRed" style="width:250px;height:400px"> <img src="/images/stfnt (3).jpg" alt="RubyRed" style="width:300px;height:220px"></p>
+  
+  
    

@@ -22,7 +22,7 @@ categories: STArena
 
 <iframe src="//www.youtube.com/embed/A76UV2BghRM" width="382" height="215" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-###"What do they want?"</strong>  
+###"What do they want?" 
 
 <iframe src="//www.youtube.com/embed/zbc2kBjaaRY" width="382" height="215" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

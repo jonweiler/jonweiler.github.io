@@ -1,10 +1,10 @@
 ---
 layout: media
-title: Packing List
+title: Equipment List
 permalink: /packing/
 ---
 
-#Required Equipment:
+#Required:
 
 ###In the Survival Trial Arena, we require Competitors to have certain base items for both safety and success:
 
@@ -19,10 +19,19 @@ permalink: /packing/
 <li>Chemical Lights  </li>
 <li>Lensatic Compass </li>
 
+<center>___________________________________________________________</center>
 
-#Suggested/Optional Equipment:
+####We want the Trials to be open to anyone who wants the Ultimate Test.  The below equipment is Optional in the Survival Trial Arena.  
 
-###The below equipment is Optional in the Survival Trial Arena.  We want the Trials to be open to anyone who wants the Ultimate Test.  If you are not in to firearms, you do not have to negotiate any of the firearm scenarios.  We will have Stage Guns available for each Shooting Scenario; you will be responsible for providing/carrying your ammunition.  If you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course, the day prior to each Survival Trial.
+####If you are not into firearms, you do not have to negotiate any of the firearm scenarios.  We will have Stage Guns available for each Shooting Scenario.  You do not have to provide a firearm to compete (or even own one for that matter.)  
+
+####You will be responsible for providing/carrying your ammunition if you want to negotiate the Shooting Scenarios but if you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course the day prior to each Survival Trial.
+
+####Note: Each ST Arena is designed to allow every Competitor the opportunity to collect the maximum amount of points.  We work diligently to ensure that no one Competitor has an advantage over another.  It all comes down to drive and strategy. 
+
+<center>___________________________________________________________</center>
+
+#Suggested/Optional:
 
 ##Firearms:
 
@@ -41,7 +50,7 @@ permalink: /packing/
 
 ##Gear:
 
-###Again, the items below are optional but suggested for success.  If you choose not to bring it all, choose wisely!
+####Again, the items below are optional but suggested for success.  If you choose not to bring it all, choose wisely!
 
 <li>6 foot rope</li>  
 <li>Carabiner</li>  
@@ -56,10 +65,11 @@ permalink: /packing/
 <li>Shovel  </li>
 <li>Non-Transmitting Digital Camera </li> 
 
+<center>___________________________________________________________</center>
 
 ##Prohibited Items:
 
-###Possession of the below items will result in expulsion from the Survival Trial Arena
+####Possession of the below items will result in expulsion from the Survival Trial Arena
 
 
 <li>Night Vision</li>
