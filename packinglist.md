@@ -3,6 +3,8 @@ layout: media
 title: Equipment List
 permalink: /packing/
 ---
+<a href="https://www.facebook.com/survivaltrial?ref_type=bookmark" target="_blank"><img src="/images/Icons/Facebook.png" alt="facebook" width="48" height="48" border="10"/></a>  <a href="https://instagram.com/survivaltrial/" target="_blank"><img src="/images/Icons/Instagram.png" alt="Instagram" width="48" height="48" border="10" /></a>  <a href="https://twitter.com/SurvivalTrial/" target="_blank"><img src="/images/Icons/Twitter.png" alt="twitter" width="48" height="48" border="10" /></a>  <a href="https://www.youtube.com/channel/UCNtr8PNyEd3YDhOyrpVUBRg" target="_blank"><img src="/images/Icons/Youtube.png" alt="youtube" width="48" height="48" border="10" /></a>
+
 
 #Required:
 
@@ -23,9 +25,9 @@ permalink: /packing/
 
 ####We want the Trials to be open to anyone who wants the Ultimate Test.  The below equipment is Optional in the Survival Trial Arena.  
 
-####If you are not into firearms, you do not have to negotiate any of the firearm scenarios.  We will have Stage Guns available for each Shooting Scenario.  You do not have to provide a firearm to compete (or even own one for that matter.)  
+####If you are not into firearms, you do not have to negotiate any of the firearm scenarios.  You do not have to provide a firearm to compete (or even own one for that matter.)  We will have Stage Guns available for each Shooting Scenario.  
 
-####You will be responsible for providing/carrying your ammunition if you want to negotiate the Shooting Scenarios but if you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course the day prior to each Survival Trial.
+####You will be responsible for providing/carrying your ammunition if you want to negotiate the Shooting Scenarios.  If you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course the day prior to each Survival Trial.
 
 ####Note: Each ST Arena is designed to allow every Competitor the opportunity to collect the maximum amount of points.  We work diligently to ensure that no one Competitor has an advantage over another.  It all comes down to drive and strategy. 
 
@@ -36,6 +38,7 @@ permalink: /packing/
 ##Firearms:
 
 <li>Precision Rifle x 1 per person</li>
+<li>Shotgun</li>
 <li>Semi-Automatic Rifle x 1 per person</li>
  -2 magazines per person
 <li>Semi-Automatic Pistol x 1 per person</li>
@@ -47,17 +50,16 @@ permalink: /packing/
 <li>Semi-Automatic Rifle x 80 rounds per person</li>
 <li>Semi-Automatic Pistol x 100 rounds per person</li>
 <li>Precision Rifle x 20 rounds per person</li>
+<li>Shotgun:  10 rounds birdshot; 10 rounds slug</li>
 
 ##Gear:
 
-####Again, the items below are optional but suggested for success.  If you choose not to bring it all, choose wisely!
+####Again, the items below are optional but suggested for success.  This is not the extent of items that will help you either, you can bring more items but whatever you pack in, you will pack out.  
+
+####Choose wisely!  Our brains are the most important piece of equipment in a Survival situation, but it does help to have some gear with you.
 
 <li>6 foot rope</li>  
 <li>Carabiner</li>  
-<li>Boots (carried)</li>  
-<li>Pants (carried)</li>  
-<li>T-shirt (carried) </li> 
-<li>Socks (carried)  </li>
 <li>Gloves </li>
 <li>Sledge Hammer </li>
 <li>Duct Tape  </li>
@@ -78,4 +80,4 @@ permalink: /packing/
 <li>Range Finders</li>
 <li>Radios, Cell Phones, tablets, laptops, pagers or any transmitting/receiving device</li>
 <li>Any maps not provided to the Competitors</li>
-<li>Fire Starting Items (no fires permitted in the ST Arena)</li>
+<li>Fire Starting Items (no fires permitted in the ST Arena unless directed by ST staff)</li>

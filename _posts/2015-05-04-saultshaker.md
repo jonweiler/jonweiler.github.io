@@ -2,6 +2,13 @@
 layout: media
 title: Sault Shaker
 categories: STArena
+
+image:
+  teaser: saultshakers.jpg
+  feature: saultshakers.jpg
+  credit: Survival Trial Staff
+  creditlink:  
+
 ---
 
 
