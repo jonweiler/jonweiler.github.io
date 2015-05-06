@@ -1,16 +1,19 @@
 # Footer navigation links
 
 - title: Home
-  url:  http://localhost:4000
+  url:  /
   
 - title: Register
   url:  http://store-survivaltrial-com.3dcartstores.com/
   
+- title: Learn
+  url:  /about/
+
 - title: Contact Us
   url:  /contact/
   
-- title: Equipment List
-  url:  /packinglist/
+- title: Packing List
+  url:  /packing/
   
 - title: Competitors
   url:  /competitors/
