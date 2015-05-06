@@ -5,9 +5,9 @@ description:  Survival Trial is a survival based adventure race that incorporate
 logo: stlogo.gif
 teaser: stteaser.gif
 locale:  United States of America
-url: jonweiler.github.io 
-url: survivaltrial.com
-url: localhost:4000 
+url: http://jonweiler.github.io 
+url: http://survivaltrial.com
+url: http://localhost:4000 
 
 
 # Jekyll configuration
