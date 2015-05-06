@@ -15,7 +15,7 @@ title: Survival Trial - The Ultimate Test
     </div><!-- /.page-lead -->
     
 
-<p><h2><center>Survival Trial is an Adventure Race like no other.  Each Trial brings relevant survival situations to a strategy based Adventure Race.  Survival Trial Arenas encompass over 120 square miles of beautifully rugged terrain in NE New Mexico.</center></h2></p>  
+<p><h2><center>Survival Trial is an Adventure Race like no other.  Each Trial brings realistic survival situations to a strategy based Adventure Race.  Survival Trial Arenas encompass over 120 square miles of beautifully rugged terrain in NE New Mexico.</center></h2></p>  
 
 <p><h2><center>Relevant survival scenarios are designed to challenge your body, mind, and spirit, all while giving each Competitor the opportunity to learn new skills.</p></center></h2>
 
@@ -34,15 +34,22 @@ title: Survival Trial - The Ultimate Test
 
 <center>__________________________________________________________________________________________________</center>
 
-
+<h2><center>Survival Trial are proud supporters of Boot Campaign.  Click below for more information on this great Veteran Organization.</center></h2>
 <center><a href="http://bootcampaign.com" target="_blank"><img src="images/BC-benefitting_color.png" 
 alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
 
 <center>__________________________________________________________________________________________________</center>
 
 
+<h1><center>Survival Trial takes place at the NRA Whittington Center in NE New Mexico:</center></h1>
+<center><a href="http://nrawc.org/" target="_blank"><img src="/images/WC Googlemaps2.jpg" alt="mytopo" width="856" height="521" border="10" /></a></center>
 
-<h1><center>Click Below to Learn More about the Upcoming Survival Trials</center></h1>
+
+<center>__________________________________________________________________________________________________</center>
+
+
+
+<h1><center>Upcoming Survival Trials:</center></h1>
 
 
 
@@ -68,9 +75,25 @@ alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></center></
 	<td><center></td><td><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIV-Sundowner-September-16-19-2016_p_29.html
 " target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/2016sundowner.png" 
 alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></center></td>
+
+	</tr>
 </table>
 
 
+<table>
+
+	<tr>
+		<td><h2><center>Survival Trial Partners</center></h2></td>
+	</tr>
+</table>
+
+<table>
+    
+	<tr><td><center><a href="http://mytopo.com/" target="_blank"><img src="/images/mytopo.jpg" alt="mytopo" width="225" height="133" border="10" /></a></center></td><td><center><a href="http://nrawc.org/" target="_blank"><img src="/images/nrawclogo.jpg" alt="nrawc" width="225" height="133" border="10" /></a></center></td><td><center><a href="http://http://nrawc.org/training/" target="_blank"><img src="/images/wu.png" 
+alt="whittington u" width="225" height="133" border="10" /></a></center></td><td><center><a href="http://professionalmarksmen.com.com/" target="_blank"><img src="/images/pmi.png" alt="PMI" width="225" height="133" border="10" /></a></center></td>
+</tr>
+	
+</table>
 
 
 
