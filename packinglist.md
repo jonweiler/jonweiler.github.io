@@ -21,6 +21,19 @@ permalink: /packing/
 <li>Chemical Lights  </li>
 <li>Lensatic Compass </li>
 
+###Required only if you are participating in the Defensive Shooting Scenarios
+
+<li>Hearing Protection</li>
+<li>Eye Protection</li>
+
+Ammunition:
+
+<li>Semi-Automatic Rifle x 80 rounds per person</li>
+<li>Semi-Automatic Pistol x 100 rounds per person</li>
+<li>Precision Rifle x 20 rounds per person</li>
+<li>Shotgun:  10 rounds birdshot; 10 rounds slug</li>
+	
+
 <center>___________________________________________________________</center>
 
 ####We want the Trials to be open to anyone who wants the Ultimate Test.  The below equipment is Optional in the Survival Trial Arena.  
@@ -45,12 +58,6 @@ permalink: /packing/
  -2 magazines per person
  -Semi-Automatic Pistol Holster x 1 per person
 
-##Ammunition:
-
-<li>Semi-Automatic Rifle x 80 rounds per person</li>
-<li>Semi-Automatic Pistol x 100 rounds per person</li>
-<li>Precision Rifle x 20 rounds per person</li>
-<li>Shotgun:  10 rounds birdshot; 10 rounds slug</li>
 
 ##Gear:
 
