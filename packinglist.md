@@ -26,8 +26,6 @@ permalink: /packing/
 <li>Hearing Protection</li>
 <li>Eye Protection</li>
 
-Ammunition:
-
 <li>Semi-Automatic Rifle x 80 rounds per person</li>
 <li>Semi-Automatic Pistol x 100 rounds per person</li>
 <li>Precision Rifle x 20 rounds per person</li>
@@ -38,9 +36,9 @@ Ammunition:
 
 ####We want the Trials to be open to anyone who wants the Ultimate Test.  The below equipment is Optional in the Survival Trial Arena.  
 
-####If you are not into firearms, you do not have to negotiate any of the firearm scenarios.  You do not have to provide a firearm to compete (or even own one for that matter.)  We will have Stage Guns available for each Shooting Scenario.  
+####If you are not into firearms, you do not have to negotiate any of the firearm scenarios.  You do not have to provide a firearm to compete.  We will have Stage Guns available for each Shooting Scenario.  
 
-####You will be responsible for providing/carrying your ammunition if you want to negotiate the Shooting Scenarios.  If you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course the day prior to each Survival Trial.
+####You will be responsible for providing/carrying your ammunition if you want to negotiate the Shooting Scenarios, along with hearing and eye protection.  If you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course the day prior to each Survival Trial.
 
 ####Note: Each ST Arena is designed to allow every Competitor the opportunity to collect the maximum amount of points.  We work diligently to ensure that no one Competitor has an advantage over another.  It all comes down to drive and strategy. 
 
