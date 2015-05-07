@@ -8,16 +8,18 @@ permalink: /contact/
 
 
 
-
-<script type="text/javascript">
-(function(d, t){
-   var g = d.createElement(t),
-       s = d.getElementsByTagName(t)[0];
-   g.src = "http://www.foxyform.com/js.php?id=665333&sec_hash=bfe4ce526c6&width=350px";
-   s.parentNode.insertBefore(g, s);
-}(document, "script"));
-</script>
-
+<script language="javascript">var sa_email_id = '51771-a1bac';var sa_sent_text = 'Thank you for contacting us. We will get back to you soon.';</script>
+<script language="javascript" src="http://s1.smartaddon.com/sa_htmlform.js"></script>
+<div id="sa_contactdiv">
+<form name=sa_htmlform style="margin:0px" onsubmit="return sa_contactform()">
+<table>
+<tr><td>Name:<br><input type="text" name="name" /></td></tr>
+<tr><td>E-mail Address: <span style="color:#D70000">*</span><br><input type="text" name="email" required="true" /></td></tr>
+<tr><td>Subject: <span style="color:#D70000">*</span><br><input type="text" name="subject" required="true" /></td></tr>
+<tr><td>Message: <span style="color:#D70000">*</span><br><textarea name="message" cols="42" rows="9" required="true"></textarea></td></tr>
+<tr><td><input type="submit" value="Send Message" style="font-weight:bold"></td></tr>
+</table>
+</form><div style="padding-top:10px"><a href="http://www.smartaddon.com/contact_form.html">Contact Form</a> provided by SmartAddon.com</div></div>
 
 
 
