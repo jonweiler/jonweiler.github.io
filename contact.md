@@ -8,8 +8,7 @@ permalink: /contact/
 
 
 
-<p><!-- Do not change the code! -->
-<a id="foxyform_embed_link_665344" href="http://www.foxyform.com/">foxyform</a>
+<p><a id="foxyform_embed_link_665344" href="http://www.foxyform.com/">foxyform</a>
 <script type="text/javascript">
 (function(d, t){
    var g = d.createElement(t),
@@ -17,8 +16,7 @@ permalink: /contact/
    g.src = "http://www.foxyform.com/js.php?id=665344&sec_hash=fb14de1941e&width=350px";
    s.parentNode.insertBefore(g, s);
 }(document, "script"));
-</script>
-<!-- Do not change the code! --></p>
+</script></p>
 
 
 
