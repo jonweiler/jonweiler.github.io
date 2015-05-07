@@ -10,8 +10,7 @@ permalink: /contact/
 
 <p><script language="javascript">var sa_email_id = '51771-a1bac';var sa_sent_text = 'Thank you for contacting us. We will get back to you soon.';</script>
 <script language="javascript" src="http://s1.smartaddon.com/sa_htmlform.js"></script>
-<div id="sa_contactdiv">
-<form name=sa_htmlform style="margin:0px" onsubmit="return sa_contactform()"></div>
+<div id="sa_contactdiv"><form name=sa_htmlform style="margin:0px" onsubmit="return sa_contactform()"></div>
 <table>
 <tr><td>Name:<br><input type="text" name="name" /></td></tr>
 <tr><td>E-mail Address: <span style="color:#D70000">*</span><br><input type="text" name="email" required="true" /></td></tr>
