@@ -6,8 +6,8 @@ permalink: /contact/
 
 #Have questions about Survival Trial?  Contact us below:
 
-<!-- Do not change the code! -->
-<a id="foxyform_embed_link_665329" href="http://www.foxyform.com/">foxyform</a>
+
+<p><a id="foxyform_embed_link_665329" href="http://www.foxyform.com/">foxyform</a>
 <script type="text/javascript">
 (function(d, t){
    var g = d.createElement(t),
@@ -15,12 +15,12 @@ permalink: /contact/
    g.src = "http://www.foxyform.com/js.php?id=665329&sec_hash=ee81c7ff4df&width=350px";
    s.parentNode.insertBefore(g, s);
 }(document, "script"));
-</script>
-<!-- Do not change the code! -->
+</script></p>
+
 
 ##Survival Trial LLC.
-###PO Box 317
-###Colome, SD 57528
-<a href="mailto:info@survivaltrial.com?Subject=STWeb%20Information" target="_top">info@survivaltrial.com</a>
-<a href="http://survivaltrial.com.com/" title="Title">
-www.survivaltrial.com</a> 
+<p><h3>PO Box 317</h3></p>
+<p><h3>Colome, SD 57528</h3></p>
+<p><a href="mailto:info@survivaltrial.com?Subject=STWeb%20Information" target="_top">info@survivaltrial.com</a></p>
+<p><a href="http://survivaltrial.com.com/" title="Title">
+www.survivaltrial.com</a></p>
