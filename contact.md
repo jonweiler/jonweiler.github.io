@@ -8,8 +8,7 @@ permalink: /contact/
 
 
 
-<!-- Do not change the code! -->
-<a id="foxyform_embed_link_665333" href="http://www.foxyform.com/">foxyform</a>
+
 <script type="text/javascript">
 (function(d, t){
    var g = d.createElement(t),
@@ -18,7 +17,8 @@ permalink: /contact/
    s.parentNode.insertBefore(g, s);
 }(document, "script"));
 </script>
-<!-- Do not change the code! -->
+
+
 
 
 ##Survival Trial LLC.
