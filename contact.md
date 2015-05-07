@@ -8,17 +8,60 @@ permalink: /contact/
 
 
 
-<p><script language="javascript">var sa_email_id = '51771-a1bac';var sa_sent_text = 'Thank you for contacting us. We will get back to you soon.';</script>
-<script language="javascript" src="http://s1.smartaddon.com/sa_htmlform.js"></script>
-<div id="sa_contactdiv"><form name=sa_htmlform style="margin:0px" onsubmit="return sa_contactform()"></div>
-<table>
-<tr><td>Name:<br><input type="text" name="name" /></td></tr>
-<tr><td>E-mail Address: <span style="color:#D70000">*</span><br><input type="text" name="email" required="true" /></td></tr>
-<tr><td>Subject: <span style="color:#D70000">*</span><br><input type="text" name="subject" required="true" /></td></tr>
-<tr><td>Message: <span style="color:#D70000">*</span><br><textarea name="message" cols="42" rows="9" required="true"></textarea></td></tr>
-<tr><td><input type="submit" value="Send Message" style="font-weight:bold"></td></tr>
-</table>
-</form><div style="padding-top:10px"><a href="http://www.smartaddon.com/contact_form.html">Contact Form</a> provided by SmartAddon.com</div></div></p>
+  <div class="clear"></div>
+  <div class="crmForm pad10 boxShadow">
+    <form method="post" action="crm.asp" id="frmForm" name="frmForm">
+      <input type="hidden" name="action" id="action" value="" />
+      <input type="hidden" name="custid" value="0" />
+      <input type="hidden" name="orderid" value="" />
+      <input type="hidden" name="productid" value="[productid]" />
+      <div class="header">
+		<h3>Contact Form</h3>
+      </div>
+      <div class="crmField">
+        <label for="departmentid">Department:</label>
+        <select name="departmentid" id="departmentid" tabindex="1" class="txtBoxStyle">
+          <option value='1'>General</option><option value='2'>Sales</option>
+        </select>
+        <div class="clear"></div>
+      </div>
+      <div class="crmField">
+        <label for="customer">Name:</label>
+        <input type="text" name="customer" value="" size="40" maxlength="50" tabindex="2" class="txtBoxStyle" />
+        <div class="error-img"><img src="assets/templates/common/images/error2.gif" width="12" height="12" alt="Error" /></div>
+        <div class="clear"></div>
+      </div>
+      <div class="crmField">
+        <label for="phone">Phone:</label>
+        <input type="text" name="phone" value="" size="40" maxlength="50" tabindex="3" class="txtBoxStyle" />
+        <div class="clear"></div>
+      </div>
+      <div class="crmField">
+        <label for="custemail">Email:</label>
+        <input type="email" name="custemail" value="" size="40" maxlength="50" tabindex="4" class="txtBoxStyle" />
+        <div class="error-img"><img src="assets/templates/common/images/error2.gif" width="12" height="12" alt="Error" /></div>
+        <div class="clear"></div>
+      </div>
+      <div class="crmField">
+        <label for="subject">Subject:</label>
+        <input name="subject" type="text" id="subject" value="" size="40" maxlength="150" tabindex="5" class="txtBoxStyle" />
+        <div class="error-img"><img src="assets/templates/common/images/error2.gif" width="12" height="12" alt="Error" /></div>
+        <div class="clear"></div>
+      </div>
+      <div class="crmField">
+        <label for="reply">Message:</label>
+        <textarea name="reply" id="reply" tabindex="6" class="txtBoxStyle"></textarea>
+        <div class="error-img"><img src="assets/templates/common/images/error2.gif" width="12" height="12" alt="Error" /></div>
+        <div class="clear"></div>
+      </div>
+      <!--START: captcha--><!--END: captcha-->
+      <!--START: recaptcha--><!--END: recaptcha-->
+      <div id="divSubmitButton">
+        <button type="button" onclick="javascript:addNew();" class="btn"><i class="icon-pencil"></i> Submit Request</button>
+      </div>
+    </form>
+  </div>
+  <div class="clear"></div>
 
 
 
