@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: media
 title: Volunteer
 categories: STArena
 comments: disqus
