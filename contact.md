@@ -6,9 +6,9 @@ permalink: /contact/
 
 #Have questions about Survival Trial?  Contact us below:
 
-<form action="http://formspree.io/info@survivaltrial.com" method="POST">>
-  <input type="email" name="_replyto">
-  <textarea name="body"></textarea>
+<form action="http://formspree.io/info@survivaltrial.com" method="POST">
+  <h3>Email Address:</h3><input type="email" name="_replyto">
+  <h3>Message:</h3><textarea name="body"></textarea>
   <input type="submit" value="Send">
 </form>
 
