@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: Volunteer
 categories: STArena
 comments: true
