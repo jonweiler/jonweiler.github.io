@@ -21,7 +21,7 @@ The Survival Trial Evaluator is the backbone of every ST Arena.  If you are inte
 <tbody>
 <tr>
 <td style="vertical-align: top;" width="204" height="39">
-<p style="text-align: center;"><a href="http://survivaltrial.com/sponsor/docs/Survival Trial Evaluator Registration.pdf" target="_blank"><img class="size-full wp-image-967 aligncenter" src="http://survivaltrial.com/wp-content/uploads/2013/08/pdf.jpg" alt="pdf" width="233" height="216" /></a></p>
+<p style="text-align: center;"><a href="http://survivaltrial.com/sponsor/docs/Survival Trial Evaluator Registration.pdf" target="_blank"><img class="size-full wp-image-967 aligncenter" src="images/pdf.jpg" alt="pdf" width="233" height="216" /></a></p>
 <p style="text-align: center;"><strong>Download the Evaluator Registration .pdf and submit via email</strong></p>
 </td>
 </tr>
@@ -34,7 +34,7 @@ The Survival Trial Evaluator is the backbone of every ST Arena.  If you are inte
 <tr>
 <td style="vertical-align: top; text-align: left;" width="173" height="38">
 <h2 style="text-align: center;"><strong>Do not forget to follow us on Google+. We will be scheduling Live Updates throughout the each Survival Trial!</strong></h2>
-<a href="https://plus.google.com/100629561302318418390/posts" target="_blank"><img class="wp-image-969 aligncenter" src="http://survivaltrial.com/wp-content/uploads/2013/08/google-plus-icon.png" alt="google-plus-icon" width="93" height="93" /></a></td>
+<a href="https://plus.google.com/100629561302318418390/posts" target="_blank"><img class="wp-image-969 aligncenter" src="images/googleplus.png" alt="google-plus-icon" width="93" height="93" /></a></td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +64,8 @@ What to expect as an Evaluator:
 
 2.Training for the Survival Trial
 
-	a.  Scenario Safety Procedures are provided and mandatory during the ST Arena Acclimation, the day prior to the start of 				the Survival Trial
+	a.  Scenario Safety Procedures are provided and mandatory during the ST Arena Acclimation, 
+	the day prior to the start of the Survival Trial
 
 	b.  No Evaluator will be in a position where they do not feel comfortable and confident
 
@@ -83,7 +84,7 @@ What to expect as an Evaluator:
 <tr>
 <tbody>
 <table>
-<td style="vertical-align: top;" width="173" height="38"><strong>Remember to follow the Survival Trial on YouTube!</strong><a href="http://www.youtube.com/user/SurvivalTrial12?feature=watch" target="_blank"><img class="alignnone size-full wp-image-970" src="http://survivaltrial.com/wp-content/uploads/2013/08/yt-320x200.png" alt="yt [320x200]" width="96" height="96" /></a></td>
+<td style="vertical-align: top;" width="173" height="38"><strong>Remember to follow the Survival Trial on YouTube!</strong><a href="http://www.youtube.com/user/SurvivalTrial12?feature=watch" target="_blank"><img class="alignnone size-full wp-image-970" src="images/yt.png" alt="youtube [320x200]" width="96" height="96" /></a></td>
 </tr>
 </tbody>
 </table>
