@@ -98,3 +98,5 @@ What to expect as an Evaluator:
 <p class="MsoNormal"><span style="font-size: 14.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">Take I-25 N until Exit 446.Off the exit, take Highway 64 for approximately 4 miles.Turn right at the NRA Whittington Center front Gate.</span></p>
 <p class="MsoNormal" style="text-align: center;" align="center"><span style="font-size: 14.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">The Survival Trial is a life-changing experience for both Competitors and Evaluators.We want you to come and experience the challenge that is life; the challenge that is the Survival Trial.Evaluators are also a major part of the ST Arena, and you will be highlighted in all Survival Trial and sponsored media. You may also be featured in National Televised Media.</span></p>
 <p class="MsoNormal" style="text-align: center;" align="center"><b style="mso-bidi-font-weight: normal;"><i style="mso-bidi-font-style: normal;"><span style="font-size: 22.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">Thank you again for volunteering as an Evaluator for the Survival Trial!We are looking forward to meeting you.Travel safe.</span></i></b></p>
+
+#comments
