@@ -9,7 +9,7 @@
       {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
     {% endif %}
     {% include open-graph.html %}
-    {% include comments.html %}
+    
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
@@ -34,6 +34,8 @@
     {% include browser-upgrade.html %}
     {% include header.html %}
     {% include navigation-sliding.html %}
+    
+    {% include comments.html %}
 
     <div id="page-wrapper">
       {{ content }}
