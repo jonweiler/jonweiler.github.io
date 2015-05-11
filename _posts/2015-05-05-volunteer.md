@@ -84,7 +84,7 @@ What to expect as an Evaluator:
 <tr>
 <tbody>
 <table>
-<td style="vertical-align: top;" width="173" height="38"><strong>Remember to follow the Survival Trial on YouTube!</strong><a href="http://www.youtube.com/user/SurvivalTrial12?feature=watch" target="_blank"><img class="alignnone size-full wp-image-970" src="images/yt.png" alt="youtube [320x200]" width="96" height="96" /></a></td>
+<td style="vertical-align: top;" width="173" height="38"><strong>Remember to follow the Survival Trial on YouTube!</strong><a href="http://www.youtube.com/user/SurvivalTrial12?feature=watch" target="_blank"><img class="alignnone size-full wp-image-970" src="images/yt.png" alt="youtube" width="96" height="96" /></a></td>
 </tr>
 </tbody>
 </table>
