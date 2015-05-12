@@ -2,18 +2,18 @@
 layout: media
 title: Equipment List
 permalink: /packing/
+comments: true
 ---
 <a href="https://www.facebook.com/survivaltrial?ref_type=bookmark" target="_blank"><img src="/images/Icons/Facebook.png" alt="facebook" width="48" height="48" border="10"/></a>  <a href="https://instagram.com/survivaltrial/" target="_blank"><img src="/images/Icons/Instagram.png" alt="Instagram" width="48" height="48" border="10" /></a>  <a href="https://twitter.com/SurvivalTrial/" target="_blank"><img src="/images/Icons/Twitter.png" alt="twitter" width="48" height="48" border="10" /></a>  <a href="https://www.youtube.com/channel/UCNtr8PNyEd3YDhOyrpVUBRg" target="_blank"><img src="/images/Icons/Youtube.png" alt="youtube" width="48" height="48" border="10" /></a>
 
 
-#Required:
+#Required Items:
 
 ###In the Survival Trial Arena, we require Competitors to have certain base items for both safety and success:
 
 <li>Pack capable of carrying 80lbs minimum x 1 per person</li>
 <li>Hydration system @ 100oz. water minimum x 1 per person</li>
-<li>Hearing Protection (Only required if you bring your own firearm) </li> 
-<li>Eye Protection (Only required if you bring your own firearm) </li>
+<li>Eye Protection </li>
 <li>Military Map Protractor  </li>
 <li>Mouthguard </li>
 <li>Flashlight/Headlamp  </li>
@@ -25,7 +25,6 @@ permalink: /packing/
 
 <li>Hearing Protection</li>
 <li>Eye Protection</li>
-
 <li>Semi-Automatic Rifle x 80 rounds per person</li>
 <li>Semi-Automatic Pistol x 100 rounds per person</li>
 <li>Precision Rifle x 20 rounds per person</li>
@@ -48,10 +47,10 @@ permalink: /packing/
 
 ##Firearms:
 
-<li>Precision Rifle x 1 per person</li>
-<li>Shotgun</li>
+<li>Shotgun x 1 per person</li>
 <li>Semi-Automatic Rifle x 1 per person</li>
  -2 magazines per person
+ -Sling
 <li>Semi-Automatic Pistol x 1 per person</li>
  -2 magazines per person
  -Semi-Automatic Pistol Holster x 1 per person
