@@ -3,6 +3,7 @@ layout: media
 title: Volunteer
 categories: STArena
 comments: true
+analytics: true
 
 image:
   teaser: volunteer.jpg

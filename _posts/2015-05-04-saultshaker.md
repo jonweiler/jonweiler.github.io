@@ -3,6 +3,7 @@ layout: media
 title: Sault Shaker
 categories: STArena
 comments:  true
+analytics: true
 
 image:
   teaser: saultshakers.jpg
