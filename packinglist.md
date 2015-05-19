@@ -53,7 +53,7 @@ analytics: true
 <li>Shotgun x 1 per person</li>
 <li>Semi-Automatic Rifle x 1 per person</li>
  -2 magazines per person
- -Sling
+ <p>-Sling</p>
 <li>Semi-Automatic Pistol x 1 per person</li>
  -2 magazines per person
  -Semi-Automatic Pistol Holster x 1 per person
