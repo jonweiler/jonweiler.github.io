@@ -16,13 +16,13 @@ alt="daybreaker" width="960" height="360" border="10"/></a></center>
 
 <table>
     <tr>
-        <td><center><a href="" target="_blank"><img src="/images/bigbird.png" 
-alt="callsign bigbird" width="400" height="150" border="10" /></a></center></td><td><center><a href="" target="_blank"><img src="/images/nack.png" 
+        <td><center><a href="http://survivaltrial.com/starena/bigbird/" target="_blank"><img src="/images/bigbird.png" 
+alt="callsign bigbird" width="400" height="150" border="10" /></a></center></td><td><center><a href="http://survivaltrial.com/starena/nack/" target="_blank"><img src="/images/nack.png" 
 alt="callsign nack" width="400" height="150" border="10" /></a></center></td>
 		</tr>
 		<tr>
-		 <td><center><a href="" target="_blank"><img src="/images/dteam.png" 
-alt="callsign dteam" width="400" height="150" border="10" /></a></center></td><td><center><a href="" target="_blank"><img src="/images/sonsofliberty.png" 
+		 <td><center><a href="http://survivaltrial.com/starena/dteam/" target="_blank"><img src="/images/dteam.png" 
+alt="callsign dteam" width="400" height="150" border="10" /></a></center></td><td><center><a href="http://survivaltrial.com/starena/sons-of-liberty/" target="_blank"><img src="/images/sonsofliberty.png" 
 alt="callsign sonsofliberty" width="400" height="150" border="10" /></a></center></td>
     </tr>
 </table>
@@ -31,7 +31,7 @@ alt="callsign sonsofliberty" width="400" height="150" border="10" /></a></center
 
 <table>
     <tr>
-        <td><center><a href="http://survivaltrial.com/rocketbob" target="_blank"><img src="/images/rocketbob.png" 
+        <td><center><a href="http://survivaltrial.com/starena/rocketbob/" target="_blank"><img src="/images/rocketbob.png" 
 alt="callsign rocketbob" width="400" height="150" border="10" /></a></center></td>
 		</tr>
 		
@@ -43,7 +43,7 @@ alt="callsign rocketbob" width="400" height="150" border="10" /></a></center></t
 
 <table>
     <tr>
-        <td><center><a href="" target="_blank"><img src="/images/teambc.png" 
+        <td><center><a href="http://survivaltrial.com/starena/boone-and-crockett/" target="_blank"><img src="/images/teambc.png" 
 alt="callsign boonecrockett" width="400" height="150" border="10" /></a></center></td>
 		</tr>
 		
