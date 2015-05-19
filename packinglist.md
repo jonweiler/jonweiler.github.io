@@ -26,10 +26,12 @@ analytics: true
 
 <li>Hearing Protection</li>
 <li>Eye Protection</li>
-<li>Semi-Automatic Rifle x 80 rounds per person</li>
-<li>Semi-Automatic Pistol x 100 rounds per person</li>
-<li>Precision Rifle x 20 rounds per person</li>
-<li>Shotgun:  10 rounds birdshot; 10 rounds slug</li>
+<li>Semi-Automatic Rifle x 80 rounds per person
+		(Staged Guns: 9mm)</li>
+<li>Semi-Automatic Pistol x 100 rounds per person
+		(Staged Guns:  5.56)</li>
+<li>Shotgun:  10 rounds birdshot; 10 rounds slug
+		(Staged Guns:  12 Gauge)</li>
 	
 
 <center>___________________________________________________________</center>
