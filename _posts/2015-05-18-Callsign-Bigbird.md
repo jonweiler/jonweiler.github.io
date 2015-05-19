@@ -1,7 +1,7 @@
 ---
-layout: media
+layout: article
 title: STX: Daybreaker - Callsign Bigbird
-categories: STArena
+categories: Competitors
 comments: true
 analytics: true
 
