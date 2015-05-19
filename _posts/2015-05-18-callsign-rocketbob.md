@@ -6,8 +6,8 @@ comments: true
 analytics: true
 
 image:
-  teaser: rocketbob.png
-  feature: rocketbob.png
+  teaser: rocketbob 
+  feature: rocketbob 
   credit: Survival Trial Staff
   creditlink:  
 ---
