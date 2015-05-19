@@ -31,7 +31,7 @@ alt="callsign sonsofliberty" width="400" height="150" border="10" /></a></center
 
 <table>
     <tr>
-        <td><center><a href="" target="_blank"><img src="/images/rocketbob.png" 
+        <td><center><a href="http://survivaltrial.com/rocketbob" target="_blank"><img src="/images/rocketbob.png" 
 alt="callsign rocketbob" width="400" height="150" border="10" /></a></center></td>
 		</tr>
 		

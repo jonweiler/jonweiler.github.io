@@ -1,16 +1,4 @@
----
-layout: media
-title: Callsign: Rocketbob
-categories: Competitors
-comments: true
-analytics: true
 
-image:
-  teaser: rocketbob.jpg
-  feature: rocketbob.jpg
-  credit: Survival Trial Staff
-  creditlink:  
----
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7vfUEvDTzPQ" frameborder="0" allowfullscreen></iframe>
 
