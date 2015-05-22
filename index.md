@@ -22,16 +22,11 @@ analytics: true
 
 <center>__________________________________________________________________________________________________</center>
 	   	   
-	   
+<h2><center>Click here for the Live Map</center></h2>
+<center><a href="http://survivaltrial.com/daybreaker/" target="_blank"><img src="images/nrawcmap.jpg" 
+alt="Survival Trial Map" width="256" height="256" border="10" /></a></center>   
 
-<table>
-    <tr>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/XuE9zm-SQCc" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/lJqlNWr2Iks" frameborder="0" allowfullscreen></iframe></td>
-		</tr>
-		<tr>
-		 <td><iframe width="560" height="315" src="https://www.youtube.com/embed/NFObCsDeEy4" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/l3UPHx9MLkc" frameborder="0" allowfullscreen></iframe></td>
-    </tr>
-</table>
+
 
 <center>__________________________________________________________________________________________________</center>
 
