@@ -119,3 +119,6 @@ comments: true
 * Karma Points:  0 Points
 * Scavenger Hunt:  100 Points
 * Deutsch Bonus:  Nein
+
+
+#Great job to all the STX: Daybreaker Competitors! 
