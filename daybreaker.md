@@ -1,6 +1,6 @@
 ---
 layout: media
-title: STX Daybreaker Live Map
+title: STX Daybreaker Survivors
 permalink: /daybreaker/
 analytics: true
 comments: true
