@@ -29,7 +29,7 @@ comments: true
 
 <h1><center>48 Hour Race: Solo</center></h1>
 
-<center><img src="/images/rocketbob22.jpg" alt="rb" width="600" height="400" border="10"/></center>
+<center><img src="/images/Rocketbob22.jpg" alt="rb" width="600" height="400" border="10"/></center>
 
 
 <h2><center>Callsign: Rocketbob</center></h2>
