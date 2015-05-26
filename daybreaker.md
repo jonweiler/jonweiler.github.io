@@ -16,12 +16,12 @@ comments: true
 
 ###Total Points:  4920
 
-*Defensive Engagements:  1760 Points
-*Responses:  2000 Points
-*Golden Bricks:  1500 Points
-*Karma Points:  300 Points
-*Scavenger Hunt:  500 Points
-*Deutsch Bonus:  Nein
+* Defensive Engagements:  1760 Points
+* Responses:  2000 Points
+* Golden Bricks:  1500 Points
+* Karma Points:  300 Points
+* Scavenger Hunt:  500 Points
+* Deutsch Bonus:  Nein
 
 
 <h1><center>48 Hour Race: Solo</center></h1>
@@ -30,13 +30,13 @@ comments: true
 
 ###Total Points:  4920
 
-*Defensive Engagements:  1770 Points
-*Responses:  1700 Points
-*Golden Bricks:  500 Points
-*Bonus Points:  300 Points - 1st in Race to the Start!
-*Karma Points:  400 Points
-*Scavenger Hunt:  250 Points
-*Deutsch Bonus:  Nein
+* Defensive Engagements:  1770 Points
+* Responses:  1700 Points
+* Golden Bricks:  500 Points
+* Bonus Points:  300 Points - 1st in Race to the Start!
+* Karma Points:  400 Points
+* Scavenger Hunt:  250 Points
+* Deutsch Bonus:  Nein
 
 <h1><center>24 Hour Race: Solo</center></h1>
 
@@ -44,47 +44,47 @@ comments: true
 
 ###Total Points:  5735
 
-*Defensive Engagements:  2285 Points
-*Responses:  2000 Points
-*Golden Bricks:  500 Points
-*Bonus Points:  100 Points - Loss of Time
-*Karma Points:  0 Points
-*Scavenger Hunt:  400 Points
-*Deutsch Bonus:  Ja - 500 Gesamtpunkte
+* Defensive Engagements:  2285 Points
+* Responses:  2000 Points
+* Golden Bricks:  500 Points
+* Bonus Points:  100 Points - Loss of Time
+* Karma Points:  0 Points
+* Scavenger Hunt:  400 Points
+* Deutsch Bonus:  Ja - 500 Gesamtpunkte
 
 <h2><center>Callsign: NACK</center></h2>
 
 ###Total Points:  4710
 
-*Defensive Engagements:  2260 Points
-*Responses:  1700 Points
-*Golden Bricks:  0 Points
-*Bonus Points:  300 Points - 1st in Race to the Start!
-*Karma Points:  0 Points
-*Scavenger Hunt:  450 Points
-*Deutsch Bonus:  Nein
+* Defensive Engagements:  2260 Points
+* Responses:  1700 Points
+* Golden Bricks:  0 Points
+* Bonus Points:  300 Points - 1st in Race to the Start!
+* Karma Points:  0 Points
+* Scavenger Hunt:  450 Points
+* Deutsch Bonus:  Nein
 
 
 <h2><center>Callsign: Sons of Liberty</center></h2>
 
 ###Total Points:  3080
 
-*Defensive Engagements:  880 Points
-*Responses:  1700 Points
-*Golden Bricks:  0 Points
-*Bonus Points:  100 Points - Loss of Time
-*Karma Points:  0 Points
-*Scavenger Hunt:  400 Points
-*Deutsch Bonus:  Nein
+* Defensive Engagements:  880 Points
+* Responses:  1700 Points
+* Golden Bricks:  0 Points
+* Bonus Points:  100 Points - Loss of Time
+* Karma Points:  0 Points
+* Scavenger Hunt:  400 Points
+* Deutsch Bonus:  Nein
 
 <h2><center>Callsign: Sons of Liberty</center></h2>
 
 ###Total Points:  1930
 
-*Defensive Engagements:  530 Points
-*Responses:  800 Points
-*Golden Bricks:  500 Points
-*Bonus Points:  0
-*Karma Points:  0 Points
-*Scavenger Hunt:  100 Points
-*Deutsch Bonus:  Nein
+* Defensive Engagements:  530 Points
+* Responses:  800 Points
+* Golden Bricks:  500 Points
+* Bonus Points:  0
+* Karma Points:  0 Points
+* Scavenger Hunt:  100 Points
+* Deutsch Bonus:  Nein
