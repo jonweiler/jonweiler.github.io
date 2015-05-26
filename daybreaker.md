@@ -15,9 +15,9 @@ comments: true
 <center><img src="/images/BooneandCrockett2.jpg" alt="bc" width="600" height="400" border="10"/></center>
 
 
-<h2><center>Team Boone and Crockett</center></h2>
+<h2><center>1st Survivor - Team Boone and Crockett</center></h2>
 
-###Total Points:  4920
+###Total Points:  6060
 
 * Defensive Engagements:  1760 Points
 * Responses:  2000 Points
@@ -27,12 +27,15 @@ comments: true
 * Deutsch Bonus:  Nein
 
 
+<center>__________________________________________________________________________________________________</center>
+
+
 <h1><center>48 Hour Race: Solo</center></h1>
 
 <center><img src="/images/Rocketbob22.jpg" alt="rb" width="600" height="400" border="10"/></center>
 
 
-<h2><center>Callsign: Rocketbob</center></h2>
+<h2><center>1st Survivor - Callsign: Rocketbob</center></h2>
 
 ###Total Points:  4920
 
@@ -44,14 +47,17 @@ comments: true
 * Scavenger Hunt:  250 Points
 * Deutsch Bonus:  Nein
 
+<center>__________________________________________________________________________________________________</center>
+
+
 <h1><center>24 Hour Race: Solo</center></h1>
 
 <center><img src="/images/Dteam2.jpg" alt="dt" width="600" height="400" border="10"/></center>
 
 
-<h2><center>Callsign: D-Team</center></h2>
+<h2><center>1st Survivor - Callsign: D-Team</center></h2>
 
-###Total Points:  5735
+###Total Points:  5785
 
 * Defensive Engagements:  2285 Points
 * Responses:  2000 Points
@@ -61,9 +67,12 @@ comments: true
 * Scavenger Hunt:  400 Points
 * Deutsch Bonus:  Ja - 500 Gesamtpunkte
 
+<center>__________________________________________________________________________________________________</center>
+
+
 <center><img src="/images/Nack2.jpg" alt="nack" width="600" height="400" border="10"/></center>
 
-<h2><center>Callsign: NACK</center></h2>
+<h2><center>2nd Survivor - Callsign: NACK</center></h2>
 
 ###Total Points:  4710
 
@@ -75,10 +84,13 @@ comments: true
 * Scavenger Hunt:  450 Points
 * Deutsch Bonus:  Nein
 
+<center>__________________________________________________________________________________________________</center>
+
+
 <center><img src="/images/SoL2.jpg" alt="sol" width="400" height="600" border="10"/></center>
 
 
-<h2><center>Callsign: Sons of Liberty</center></h2>
+<h2><center>3rd Survivor - Callsign: Sons of Liberty</center></h2>
 
 ###Total Points:  3080
 
@@ -90,10 +102,13 @@ comments: true
 * Scavenger Hunt:  400 Points
 * Deutsch Bonus:  Nein
 
+<center>__________________________________________________________________________________________________</center>
+
+
 <center><img src="/images/bigbird2.jpg" alt="bigbird" width="600" height="400" border="10"/></center>
 
 
-<h2><center>Callsign: BigBird</center></h2>
+<h2><center>4th Survivor - Callsign: BigBird</center></h2>
 
 ###Total Points:  1930
 
