@@ -6,8 +6,8 @@ analytics: true
 comments: true
 
 image:
-  teaser: daybreakerslider.jpg
-  feature: daybreakerslider.jpg
+  teaser: daybreakerslider.png
+  feature: daybreakerslider.png
   credit: Survival Trial Staff
   creditlink:  
 ---
