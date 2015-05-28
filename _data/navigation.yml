@@ -10,12 +10,12 @@
   excerpt:  "About Survival Trial"
   image:  stmenu.gif
   
-- title: Contact Us 
+- title: Contact 
   url:  /contact/
   excerpt:  "Have questions about Survival Trial?"
   image:  stmenu.gif
   
-- title: Packing List
+- title: Equipment
   url:  /packing/
   excerpt:  "Required and Suggested Equipment to Compete"
   image:  stmenu.gif
@@ -26,6 +26,6 @@
   image:  stmenu.gif
   
 - title: Articles
-  url:  /blog/
+  url:  /articles/
   excerpt:  "Learn about the Ultimate Test"
   image:  stmenu.gif
