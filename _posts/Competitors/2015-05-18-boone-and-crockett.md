@@ -1,7 +1,7 @@
 ---
 layout: media
 title: Team Boone and Crockett
-categories: STArena
+categories: Competitors
 comments: true
 analytics: true
 

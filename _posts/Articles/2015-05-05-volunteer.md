@@ -1,7 +1,7 @@
 ---
 layout: media
 title: Volunteer
-categories: STArena
+categories: Articles
 comments: true
 analytics: true
 

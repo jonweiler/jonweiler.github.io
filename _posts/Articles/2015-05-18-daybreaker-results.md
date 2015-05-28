@@ -1,7 +1,7 @@
 ---
 layout: media
 title: STX Daybreaker Survivors
-permalink: /daybreaker/
+categories: Articles
 analytics: true
 comments: true
 

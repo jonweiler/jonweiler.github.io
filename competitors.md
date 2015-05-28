@@ -8,43 +8,6 @@ analytics: true
 
 <h2><center>Click on the images below to view the Competitor's Bio:</center></h2>
 
-<center><a href="http://store-survivaltrial-com.3dcartstores.com/STX-Daybreaker--May-22-24-2015_p_14.html" target="_blank"><img src="/images/daybreakerslider.png" 
+<center><a href="http://www.survivaltrial.com/daybreaker" target="_blank"><img src="/images/daybreakerslider.png" 
 alt="daybreaker" width="960" height="360" border="10"/></a></center>
 
-<h3><center>24 Hour Solo Competitors:</center></h3>
-
-
-<table>
-    <tr>
-        <td><center><a href="http://survivaltrial.com/starena/bigbird/" target="_blank"><img src="/images/bigbird.png" 
-alt="callsign bigbird" width="400" height="150" border="10" /></a></center></td><td><center><a href="http://survivaltrial.com/starena/nack/" target="_blank"><img src="/images/nack.png" 
-alt="callsign nack" width="400" height="150" border="10" /></a></center></td>
-		</tr>
-		<tr>
-		 <td><center><a href="http://survivaltrial.com/starena/dteam/" target="_blank"><img src="/images/dteam.png" 
-alt="callsign dteam" width="400" height="150" border="10" /></a></center></td><td><center><a href="http://survivaltrial.com/starena/sons-of-liberty/" target="_blank"><img src="/images/sonsofliberty.png" 
-alt="callsign sonsofliberty" width="400" height="150" border="10" /></a></center></td>
-    </tr>
-</table>
-
-<h3><center>48 Hour Solo Competitors:</center></h3>
-
-<table>
-    <tr>
-        <td><center><a href="http://survivaltrial.com/starena/rocketbob/" target="_blank"><img src="/images/rocketbob.png" 
-alt="callsign rocketbob" width="400" height="150" border="10" /></a></center></td>
-		</tr>
-		
-    </tr>
-</table>
-
-
-<h3><center>48 Hour Team Competitors:</center></h3>
-
-<table>
-    <tr>
-        <td><center><a href="http://survivaltrial.com/starena/boone-and-crockett/" target="_blank"><img src="/images/teambc.png" 
-alt="callsign boonecrockett" width="400" height="150" border="10" /></a></center></td>
-		</tr>
-		
-</table>

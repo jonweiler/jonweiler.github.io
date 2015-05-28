@@ -1,7 +1,7 @@
 ---
 layout: media
 title: Callsign Sons of Liberty
-categories: STArena
+categories: Competitors
 comments: true
 analytics: true
 

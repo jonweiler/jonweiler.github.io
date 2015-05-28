@@ -1,7 +1,7 @@
 ---
 layout: media
 title: Callsign Rocketbob
-categories: STArena
+categories: Competitors
 comments: true
 analytics: true
 

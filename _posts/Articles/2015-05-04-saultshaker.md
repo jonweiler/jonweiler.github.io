@@ -1,7 +1,7 @@
 ---
 layout: media
 title: Sault Shaker
-categories: STArena
+categories: Articles
 comments:  true
 analytics: true
 
