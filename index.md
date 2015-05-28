@@ -89,6 +89,32 @@ alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
 
 <center>__________________________________________________________________________________________________</center>
 
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">2015 Survival Trials</h2>
+  <p class="post-excerpt"><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html
+" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/STXISundowner1.jpg" 
+alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Content First</h2>
+  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Customizable</h2>
+  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Extensible</h2>
+  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+
 <table>
     <tr><td><h2><center>2015 Survival Trials</center></h2></td><td><h2><center>2016 Survival Trials</center></h2></td></tr>
         <tr><td><center><a href="http://store-survivaltrial-com.3dcartstores.com/STX-Daybreaker--May-22-24-2015_p_14.html
