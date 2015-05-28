@@ -144,6 +144,34 @@ alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></center></
 	</tr>
 </table>
 
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">Professional Marksmen Inc.</h2>
+  <p class="post-excerpt"><a href="http://professionalmarksmen.com/" target="_blank"><img src="/images/pmi.png" alt="PMI" width="225" height="133" border="10" /></a></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">NRA Whittington Center</h2>
+  <p class="post-excerpt"><a href="http://nrawc.org/" target="_blank"><img src="/images/nrawclogo.jpg" alt="nrawc" width="225" height="133" border="10" /></a></p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">MyTopo</h2>
+  <p class="post-excerpt"><a href="http://mytopo.com/" target="_blank"><img src="/images/mytopo.jpg" alt="mytopo" width="225" height="133" border="10" /></a></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Whittington U</h2>
+  <p class="post-excerpt"><a href="http://nrawc.org/training/" target="_blank"><img src="/images/wu.png" 
+alt="whittington u" width="225" height="133" border="10" /></a></p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
 
 <table>
 
