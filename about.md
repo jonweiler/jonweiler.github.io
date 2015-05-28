@@ -21,16 +21,32 @@ analytics: true
   
 <center>__________________________________________________________________________________________________</center>
 	   	   
-	   
+<div class="tiles">
 
-<table>
-    <tr>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/99CGn8mMOwc" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/1M6yrr70VFs" frameborder="0" allowfullscreen></iframe></td>
-		</tr>
-		<tr>
-		 <td><iframe width="560" height="315" src="https://www.youtube.com/embed/dKO_NwSCurs" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/TwYMUp5B4m4" frameborder="0" allowfullscreen></iframe></td>
-    </tr>
-</table>
+<div class="tile">
+  <h2 class="post-title">STX: Winterborn RoC</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/99CGn8mMOwc" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">The Why of Survival Trial</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/1M6yrr70VFs" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STVII: Daybreaker Begins</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/dKO_NwSCurs" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STV: Sundowner Episode #1</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/TwYMUp5B4m4" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+
+
+</div><!-- /.tiles -->	   
+
 
 <center>__________________________________________________________________________________________________</center>
 
@@ -45,16 +61,32 @@ analytics: true
   
   <center>__________________________________________________________________________________________________</center>
 	   	   
-	   
+<div class="tiles">
 
-<table>
-    <tr>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/_v8fIJqleAw" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/i_g19L5XXZ4" frameborder="0" allowfullscreen></iframe></td>
-		</tr>
-		<tr>
-		 <td><iframe width="560" height="315" src="https://www.youtube.com/embed/royC_yY8Vy8" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/8GGyUdE3g4w" frameborder="0" allowfullscreen></iframe></td>
-    </tr>
-</table>
+<div class="tile">
+  <h2 class="post-title">Shooting Gallery Episode 1</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/_v8fIJqleAw" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Shooting Gallery Episode 2</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/i_g19L5XXZ4" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Shooting Gallery Episode 3</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/royC_yY8Vy8" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Shooting Gallery Episode 4</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/8GGyUdE3g4w" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+
+
+</div><!-- /.tiles -->	  	   
+
 
 <center>__________________________________________________________________________________________________</center>
 
@@ -66,16 +98,34 @@ analytics: true
 
   <center>__________________________________________________________________________________________________</center>
 	   	   
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">STVII: Daybreaker - Team Delo Rio</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/aFpTG3OZJq8" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STIV: Daybreaker - Team Tough Smiles</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/_p5XMpCFpLk" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STIV: Daybreaker - Team Charlie Co.</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/RtMO0YDKwFw" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STIV: Daybreaker - Team Luchadores</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/s39gQxdAsrQ" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+
+
+</div><!-- /.tiles -->	  	   
 	   
 
-<table>
-    <tr>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/aFpTG3OZJq8" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/_p5XMpCFpLk" frameborder="0" allowfullscreen></iframe></td>
-		</tr>
-		<tr>
-		 <td><iframe width="560" height="315" src="https://www.youtube.com/embed/RtMO0YDKwFw" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/s39gQxdAsrQ" frameborder="0" allowfullscreen></iframe></td>
-    </tr>
-</table>
+
 
 <center>__________________________________________________________________________________________________</center>
  
@@ -88,13 +138,32 @@ analytics: true
   <p><center><img src="/images/stfnt (1).jpg" alt="RubyRed" style="width:250px;height:400px"> <img src="/images/stfnt (3).jpg" alt="RubyRed" style="width:300px;height:220px"></center></p>
   
   
- <table>
-    <tr>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/0t9qQNE7YSw" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/0zNgerf9VLM" frameborder="0" allowfullscreen></iframe></td>
-		</tr>
-		<tr>
-		 <td><iframe width="560" height="315" src="https://www.youtube.com/embed/jmkcr6tP3g4" frameborder="0" allowfullscreen></iframe></td><td><iframe width="560" height="315" src="https://www.youtube.com/embed/B_MQStHcFcI" frameborder="0" allowfullscreen></iframe></td>
-    </tr>
-</table>
+  <center>__________________________________________________________________________________________________</center>  
+
+  <div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">STIV: Daybreaker - Team Cocked and Locked</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/0t9qQNE7YSw" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STIV: Daybreaker - Team Manzy</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/0zNgerf9VLM" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STV: Sundowner - Episode 3</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/jmkcr6tP3g4" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STIV: Daybreaker - Team ATG</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/B_MQStHcFcI" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+
+
+
 
 <center>__________________________________________________________________________________________________</center>  
