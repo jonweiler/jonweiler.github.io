@@ -82,7 +82,7 @@ alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
 
 
 
-<h1><center>Upcoming Survival Trials:</center></h1>
+# Click Below to Register for an Upcoming Survival Trial!
 
 
 
@@ -121,28 +121,7 @@ alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></p>
 
 </div><!-- /.tiles -->
 
-<table>
-    <tr><td><h2><center>2015 Survival Trials</center></h2></td><td><h2><center>2016 Survival Trials</center></h2></td></tr>
-        <tr><td><center><a href="http://store-survivaltrial-com.3dcartstores.com/STX-Daybreaker--May-22-24-2015_p_14.html
-" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/STXDaybreaker1.jpg" 
-alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></center></td><td><center><a href="http://store-survivaltrial-com.3dcartstores.com/STXII-Winterborn--February-19-21-2016_p_27.html
-" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/2016winterborn.png" 
-alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></center></td>
-    </tr>
-	<tr>
-	<td><center><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html
-" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/STXISundowner1.jpg" 
-alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></center></td><td><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXII-Daybreaker-May-20-22-2016_p_28.html
-" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/2016daybreaker.png" 
-alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></center></td>
-</tr>
-	<tr>
-	<td><center></td><td><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIV-Sundowner-September-16-19-2016_p_29.html
-" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/2016sundowner.png" 
-alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></center></td>
-
-	</tr>
-</table>
+# Support our Partner!
 
 <div class="tiles">
 
@@ -156,9 +135,6 @@ alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></center></
   <p class="post-excerpt"><a href="http://nrawc.org/" target="_blank"><img src="/images/nrawclogo.jpg" alt="nrawc" width="225" height="133" border="10" /></a></p>
 </div><!-- /.tile -->
 
-</div><!-- /.tiles -->
-
-<div class="tiles">
 
 <div class="tile">
   <h2 class="post-title">MyTopo</h2>
@@ -172,21 +148,6 @@ alt="whittington u" width="225" height="133" border="10" /></a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
-
-<table>
-
-	<tr>
-		<td><h2><center>Survival Trial Partners</center></h2></td>
-	</tr>
-</table>
-
-<table>
-    
-	<tr><td><center><a href="http://mytopo.com/" target="_blank"><img src="/images/mytopo.jpg" alt="mytopo" width="225" height="133" border="10" /></a></center></td><td><center><a href="http://nrawc.org/" target="_blank"><img src="/images/nrawclogo.jpg" alt="nrawc" width="225" height="133" border="10" /></a></center></td><td><center><a href="http://nrawc.org/training/" target="_blank"><img src="/images/wu.png" 
-alt="whittington u" width="225" height="133" border="10" /></a></center></td><td><center><a href="http://professionalmarksmen.com/" target="_blank"><img src="/images/pmi.png" alt="PMI" width="225" height="133" border="10" /></a></center></td>
-</tr>
-	
-</table>
 
 
 
