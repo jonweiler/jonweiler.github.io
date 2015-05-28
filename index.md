@@ -22,9 +22,40 @@ analytics: true
 
 <center>__________________________________________________________________________________________________</center>
 	   	   
-<h2><center>Click here for the Live Map</center></h2>
-<center><a href="http://survivaltrial.com/daybreaker/" target="_blank"><img src="images/nrawcmap.jpg" 
-alt="Survival Trial Map" width="256" height="256" border="10" /></a></center>   
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">New in 2015!</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/YXXKhY7UcPc" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STX: Daybreaker Live Update #1</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/RVkUffN9aRo" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STX: Daybreaker Live Update #2</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/ON6L_5pcv2o" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STX: Daybreaker Live Update #3</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/PEdZFrIE89k" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">STX: Daybreaker Live Update #4</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/GOMsJvYLhME" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">New in 2015!</h2>
+  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/dCb-Ou1mrJs" frameborder="0" allowfullscreen></iframe></p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+ 
 
 
 
@@ -82,7 +113,7 @@ alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
 
 
 
-# Click Below to Register for an Upcoming Survival Trial!
+<p><h1><center>Click Below to Register for an Upcoming Survival Trial!</center></h1></p>
 
 
 
@@ -121,7 +152,13 @@ alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></p>
 
 </div><!-- /.tiles -->
 
-# Support our Partner!
+<center>__________________________________________________________________________________________________</center>
+
+
+<p><h1><center>Support our Partners!</center></h1></p>
+
+<center>__________________________________________________________________________________________________</center>
+
 
 <div class="tiles">
 
