@@ -50,7 +50,7 @@ analytics: true
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">New in 2015!</h2>
+  <h2 class="post-title">STX: Daybreaker Live Update #5</h2>
   <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/dCb-Ou1mrJs" frameborder="0" allowfullscreen></iframe></p>
 </div><!-- /.tile -->
 
@@ -126,13 +126,6 @@ alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
   <h2 class="post-title">2015 Survival Trials</h2>
   <p class="post-excerpt"><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html
 " target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/STXISundowner1.jpg" 
-alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">2016 STXII: Winterborn Race of Champions</h2>
-  <p class="post-excerpt"><a href="http://store-survivaltrial-com.3dcartstores.com/STXII-Winterborn--February-19-21-2016_p_27.html
-" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/2016winterborn.png" 
 alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></p>
 </div><!-- /.tile -->
 
