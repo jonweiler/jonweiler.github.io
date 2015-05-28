@@ -95,22 +95,28 @@ alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
   <h2 class="post-title">2015 Survival Trials</h2>
   <p class="post-excerpt"><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html
 " target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/STXISundowner1.jpg" 
-alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">2016 STXII: Winterborn Race of Champions</h2>
+  <p class="post-excerpt"><a href="http://store-survivaltrial-com.3dcartstores.com/STXII-Winterborn--February-19-21-2016_p_27.html
+" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/2016winterborn.png" 
+alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">2016 STXIII: Daybreaker</h2>
+  <p class="post-excerpt"><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXII-Daybreaker-May-20-22-2016_p_28.html
+" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/2016daybreaker.png" 
+alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">2016 STXIV: Sundowner</h2>
+  <p class="post-excerpt"><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIV-Sundowner-September-16-19-2016_p_29.html
+" target="_blank"><img src="http://store-survivaltrial-com.3dcartstores.com/assets/images/2016sundowner.png" 
+alt="IMAGE ALT TEXT HERE" width="440" height="280" border="10" /></a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
