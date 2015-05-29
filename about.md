@@ -24,7 +24,7 @@ analytics: true
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">STX: Winterborn RoC</h2>
+  <h2 class="post-title">STX: Winterborn Race of Champions</h2>
   <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/99CGn8mMOwc" frameborder="0" allowfullscreen></iframe></p>
 </div><!-- /.tile -->
 
