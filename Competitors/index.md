@@ -6,7 +6,7 @@ modified:
 excerpt: "Survival Trial Competitors"
 tags: []
 image:
-  feature:
+  feature:  
   teaser:
   
 analytics: true
