@@ -21,13 +21,15 @@ analytics: true
 <p><h2><center>Relevant survival scenarios are designed to challenge your body, mind, and spirit, all while giving each Competitor the opportunity to learn new skills.</p></center></h2>
 
 <center>__________________________________________________________________________________________________</center>
+
+<!-- SnapWidget -->
+<script src="http://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="http://snapwidget.com/in/?u=c3Vydml2YWx0cmlhbHxpbnwxMjV8M3wzfDAwMDAwMHxub3w1fGZhZGVJbnxvblN0YXJ0fHllc3x5ZXM=&ve=280515" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
+
+<center>__________________________________________________________________________________________________</center>
+
 	   	   
 <div class="tiles">
-
-<div class="tile">
-  <h2 class="post-title">New in 2015!</h2>
-  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/YXXKhY7UcPc" frameborder="0" allowfullscreen></iframe></p>
-</div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">STX: Daybreaker Live Update #1</h2>
