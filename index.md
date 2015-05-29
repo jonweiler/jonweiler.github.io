@@ -22,12 +22,6 @@ analytics: true
 
 <center>__________________________________________________________________________________________________</center>
 
-<!-- SnapWidget -->
-<script src="http://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="http://snapwidget.com/in/?u=c3Vydml2YWx0cmlhbHxpbnwxMjV8M3wzfDAwMDAwMHxub3w1fGZhZGVJbnxvblN0YXJ0fHllc3x5ZXM=&ve=280515" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
-
-<center>__________________________________________________________________________________________________</center>
-
 	   	   
 <div class="tiles">
 
