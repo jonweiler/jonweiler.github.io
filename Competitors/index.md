@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Competitors"
-date: 2014-05-30T11:39:03-04:00
+date: 2015-05-28T11:39:03-04:00
 modified:
 excerpt: "Survival Trial Competitors"
 tags: []
@@ -17,7 +17,6 @@ analytics: true
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-
 
 
 
