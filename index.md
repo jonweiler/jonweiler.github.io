@@ -58,10 +58,6 @@ analytics: true
 <center>__________________________________________________________________________________________________</center>
 
 
-<center><div class="g-post" data-href="https://plus.google.com/+Survivaltrial/posts/ChwGjg1cCFn"></div></center>
-
-<center>__________________________________________________________________________________________________</center>
-
 
 <h2><center>Survival Trial are proud supporters of Boot Campaign.  Click below for more information on this great Veteran Organization.</center></h2>
 <center><a href="http://bootcampaign.com" target="_blank"><img src="images/BC-benefitting_color.png" 
