@@ -24,16 +24,32 @@ analytics: true
 
 
 
-<p><h1><center>Click Below to Register for an Upcoming Survival Trial!</center></h1></p>
+<p><h1><center>Click Below to Register for the STXI: Sundowner!</center></h1></p>
 
 <p><center><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html" target="_blank"><img src="images/STXISundowner1.png" 
 alt="STXI Sundowner" width="744" height="133" border="10" /></a></center></p>
-<p><h2><center>Scenes from the STVIII: Sundowner!</center></h2> </p>  	   
+
+<p><h2><center>Scenes from the STVIII: Sundowner!</center></h2> </p>
+  	   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NFObCsDeEy4" frameborder="0" allowfullscreen></iframe></p>
+
+<center>__________________________________________________________________________________________________</center>
+
+
+<p><h1><center>Click Below to Register for the 2016 STXII: Daybreaker!</center></h1></p>
+
 <p><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXII-Daybreaker-May-20-22-2016_p_28.html" target="_blank"><img src="images/2016daybreaker.png" 
 alt="STXII Daybreaker" width="744" height="133" border="10" /></a></center></p>
-<p><h2><center>Scenes from the STVII: Daybreaker!</center></h2> </p>  	   
+
+<p><h2><center>Scenes from the STVII: Daybreaker!</center></h2> </p>  	
+   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r-W1IN5v-dc?list=PLVxvjseUtV0N81EJ___1GkL7vThlPWVeT" frameborder="0" allowfullscreen></iframe>
+
+<center>__________________________________________________________________________________________________</center>
+
+
+<p><h1><center>Click Below to Register for the 2016 STXIII: Sundowner!</center></h1></p>
+
 <p><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIV-Sundowner-September-16-19-2016_p_29.html" target="_blank"><img src="images/2016sundowner.png" 
 alt="STXIII Sundowner" width="744" height="133" border="10" /></a></center></p>
 
