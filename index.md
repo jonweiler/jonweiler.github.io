@@ -7,7 +7,7 @@ analytics: true
 <a href="https://www.facebook.com/survivaltrial?ref_type=bookmark" target="_blank"><img src="/images/Icons/Facebook.png" alt="facebook" width="48" height="48" border="10"/></a>  <a href="https://instagram.com/survivaltrial/" target="_blank"><img src="/images/Icons/Instagram.png" alt="Instagram" width="48" height="48" border="10" /></a>  <a href="https://twitter.com/SurvivalTrial/" target="_blank"><img src="/images/Icons/Twitter.png" alt="twitter" width="48" height="48" border="10" /></a>  <a href="https://www.youtube.com/channel/UCNtr8PNyEd3YDhOyrpVUBRg" target="_blank"><img src="/images/Icons/Youtube.png" alt="youtube" width="48" height="48" border="10" /></a>
 
 
-   <div class="page-lead" style="background-image:url(http://jonweiler.github.io//images/Survival Trial Logo 1.png)">
+   <div class="page-lead" style="background-image:url(http://jonweiler.github.io/images/sttopo.png)">
       <div class="wrap page-lead-content">
         <h1>Survival Trial</h1>
         <h2>The Ultimate Test</h2>
@@ -22,29 +22,23 @@ analytics: true
 
 <center>__________________________________________________________________________________________________</center>
 
-<p><h2><center>Scenes from the STVII: Daybreaker!</center></h2> </p>  	   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r-W1IN5v-dc?list=PLVxvjseUtV0N81EJ___1GkL7vThlPWVeT" frameborder="0" allowfullscreen></iframe>
-
-<p><h2><center>Scenes from the STVIII: Sundowner!</center></h2> </p>  	   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NFObCsDeEy4" frameborder="0" allowfullscreen></iframe>
-
-<center>__________________________________________________________________________________________________</center>
-
 
 
 <p><h1><center>Click Below to Register for an Upcoming Survival Trial!</center></h1></p>
 
-<center><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html" target="_blank"><img src="images/STXISundowner1.png" 
-alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
+<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html" target="_blank"><img src="images/STXISundowner1.png" 
+alt="STXI Sundowner" width="744" height="133" border="10" /></a></center></p>
+<p><h2><center>Scenes from the STVIII: Sundowner!</center></h2> </p>  	   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NFObCsDeEy4" frameborder="0" allowfullscreen></iframe></p>
+<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXII-Daybreaker-May-20-22-2016_p_28.html" target="_blank"><img src="images/2016daybreaker.png" 
+alt="STXII Daybreaker" width="744" height="133" border="10" /></a></center></p>
+<p><h2><center>Scenes from the STVII: Daybreaker!</center></h2> </p>  	   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r-W1IN5v-dc?list=PLVxvjseUtV0N81EJ___1GkL7vThlPWVeT" frameborder="0" allowfullscreen></iframe>
+<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIV-Sundowner-September-16-19-2016_p_29.html" target="_blank"><img src="images/2016sundowner.png" 
+alt="STXIII Sundowner" width="744" height="133" border="10" /></a></center></p>
 
-<center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXII-Daybreaker-May-20-22-2016_p_28.html" target="_blank"><img src="images/2016daybreaker.png" 
-alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
-
-<center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIV-Sundowner-September-16-19-2016_p_29.html" target="_blank"><img src="images/2016sundowner.png" 
-alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
 
 <center>__________________________________________________________________________________________________</center>
-
 
 
 <h2><center>Survival Trial are proud supporters of Boot Campaign.  Click below for more information on this great Veteran Organization.</center></h2>
@@ -125,6 +119,12 @@ alt="bootcampaign pic" width="744" height="133" border="10" /></a></center>
   <h2 class="post-title">Whittington U</h2>
   <p class="post-excerpt"><a href="http://nrawc.org/training/" target="_blank"><img src="/images/wu.png" 
 alt="whittington u" width="225" height="133" border="10" /></a></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Triple Aught Design</h2>
+  <p class="post-excerpt"><a href="http://tripleaughtdesign.com/" target="_blank"><img src="/images/tad.jpg" 
+alt="Triple Aught Design" width="225" height="133" border="10" /></a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
