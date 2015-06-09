@@ -29,7 +29,7 @@ analytics: true
 <p><center><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html" target="_blank"><img src="images/STXISundowner1.png" 
 alt="STXI Sundowner" width="744" height="133" border="10" /></a></center></p>
 
-<p><h2><center>Scenes from the STVIII: Sundowner!</center></h2> </p>
+<p><h2><center>Scenes from the STV: Sundowner!</center></h2> </p>
   	   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NFObCsDeEy4" frameborder="0" allowfullscreen></iframe></p>
 
