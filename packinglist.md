@@ -10,7 +10,7 @@ analytics: true
 
 #Required Items:
 
-###In the Survival Trial Arena, we require Competitors to have certain base items for both safety and success:
+###In the Survival Trial Arena, we ask Competitors to have certain base items for both safety and success:
 
 <li>Pack capable of carrying 80lbs minimum x 1 per person</li>
 <li>Hydration system @ 100oz. water minimum x 1 per person</li>
