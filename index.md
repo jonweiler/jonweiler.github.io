@@ -42,9 +42,9 @@ alt="STXI Sundowner" width="744" height="133" border="10" /></a></center></p>
 <p><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXII-Daybreaker-May-20-22-2016_p_28.html" target="_blank"><img src="images/2016daybreaker.png" 
 alt="STXII Daybreaker" width="744" height="133" border="10" /></a></center></p>
 
-<p><h2><center>Scenes from the STVII: Daybreaker!</center></h2> </p>  	
+<p><h2><center>Scenes from the STX: Daybreaker!</center></h2> </p>  	
    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r-W1IN5v-dc?list=PLVxvjseUtV0N81EJ___1GkL7vThlPWVeT" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zZUNGXDMzHg" frameborder="0" allowfullscreen></iframe>
 
 <center>__________________________________________________________________________________________________</center>
 
@@ -53,6 +53,11 @@ alt="STXII Daybreaker" width="744" height="133" border="10" /></a></center></p>
 
 <p><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIV-Sundowner-September-16-19-2016_p_29.html" target="_blank"><img src="images/2016sundowner.png" 
 alt="STXIII Sundowner" width="744" height="133" border="10" /></a></center></p>
+
+<p><h2><center>Scenes from the STVIII: Sundowner!</center></h2> </p>  	
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KQJziGcn4H8" frameborder="0" allowfullscreen></iframe>
 
 
 <center>__________________________________________________________________________________________________</center>
