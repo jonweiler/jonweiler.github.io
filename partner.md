@@ -10,6 +10,9 @@ analytics: true
 
 #Survival Trial is the Ultimate Test
 
+<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html" target="_blank"><img src="images/STXISundowner1.png" 
+alt="STXI Sundowner" width="744" height="133" border="10" /></a></center></p>
+
 ###In the Survival Trial Arena, we ask Competitors to have certain base items for both safety and success:
 
 <li>Pack capable of carrying 80lbs minimum x 1 per person</li>
