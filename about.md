@@ -49,6 +49,11 @@ analytics: true
   <center><img src="/images/stfnt (6).JPG" alt="RubyRed" style="width:300px;height:220px"><img src="/images/stfnt (7).JPG" alt="RubyRed" style="width:300px;height:220px"></center> 
   
 <center>__________________________________________________________________________________________________</center>
+
+<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXII-Daybreaker-May-20-22-2016_p_28.html" target="_blank"><img src="/images/2016daybreakerbanner.png" alt="STXII Daybreaker" width="744" height="133" border="10" /></a></center></p>
+
+<center>__________________________________________________________________________________________________</center>
+
 	   	   
 <h2>Shooting Gallery Episode 1</h2>
 <p><iframe width="360" height="215" src="https://www.youtube.com/embed/_v8fIJqleAw" frameborder="0" allowfullscreen></iframe></p>
@@ -73,6 +78,10 @@ analytics: true
    
   <p>The Equipment List is suggested to enhance your journey through the Survival Trial Arena, however these items are not mandatory. We provide items in the Arenas to give opportunity to anyone looking for the Ultimate Test. <strong><em>(See the <a href="/packing/">Equipment List</a> for more information on what is availble for use.)</em></strong></p> 
   <p><center><img src="/images/stfnt (4).jpg" alt="RubyRed" style="width:300px;height:220px"> <img src="/images/stfnt (5).jpg" alt="RubyRed" style="width:300px;height:220px"></center></p>
+
+<center>__________________________________________________________________________________________________</center>
+
+<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIII-Sundowner-September-16-19-2016_p_29.html" target="_blank"><img src="/images/2016sundownerbanner.png" alt="STXIII Sundowner" width="744" height="133" border="10" /></a></center></p>
 
 <center>__________________________________________________________________________________________________</center>
 	   	   
