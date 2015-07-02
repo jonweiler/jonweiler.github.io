@@ -10,5 +10,5 @@ analytics: true
 
 # Survival Trial is the Ultimate Test:
 
-<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIV-Sundowner-September-16-19-2016_p_29.html" target="_blank"><img src="images/2016sundowner.png" 
+<p><center><a> href="http://store-survivaltrial-com.3dcartstores.com/Survival-Trial--STXIV-Sundowner-September-16-19-2016_p_29.html" target="_blank"><img src="images/2016sundowner.png" 
 alt="STXIII Sundowner" width="744" height="133" border="10" /></a></center></p>
