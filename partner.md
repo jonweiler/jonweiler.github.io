@@ -37,8 +37,8 @@ You are invited to participate as a Partner in the ST Sundowner Arena during the
 <li>Partners will provide their own Volunteers to run their Response or Problem</li>  
 
 
-<p><center><a><img src="images/Survival Trial Logo 1.png" 
-alt="Survival Trial Logo" width="595" height="496" border="10" /></a></center></p>
+<p><center><img src="images/Survival Trial Logo 1.png" 
+alt="Survival Trial Logo" width="595" height="496" border="10" /></center></p>
 
 # Survival Trial is the Ultimate Test.
 
