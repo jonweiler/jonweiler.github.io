@@ -10,12 +10,12 @@ analytics: true
 
 # Survival Trial is the Ultimate Test:
 
-<p><center><a><img src="images/SundownerMap.png" 
-alt="Survival Trial Endurance" width="800" height="800" border="10" /></a></center></p>
+<img src="images/SundownerMap.png" 
+alt="Survival Trial Partner Map" width="800" height="800" border="10" />
 
-## 2015 Sundowner Arena
+<h2>2015 Sundowner Arena</h2>
 
-You are invited to participate as a Partner in the ST Sundowner Arena during the week of September 17-19, 2015.   Survival Trial is a great way to connect with your customer base, directly as it relates to your product and/or services.  
+<p>You are invited to participate as a Partner in the ST Sundowner Arena during the week of September 17-19, 2015.   Survival Trial is a great way to connect with your customer base, directly as it relates to your product and/or services.  </p>
 
 <li>Each Partner will have a section of the ST Arena to create Responses and Problems</li>
 
@@ -27,7 +27,7 @@ You are invited to participate as a Partner in the ST Sundowner Arena during the
 <li>Whittington U (http://www.nrawc.org/training) and Professional Marksmen Inc. (http://www.professionalmarksmen.com) will create and facilitate all the Defensive Engagements in the ST Arena.
 <li>Survival Trial will offer a Veteran Organization as a fundraising beneficiary:  Boot Campaign (http://www.bootcampaign.com) 
 
-## Guidelines:
+<h2>Guidelines:</h2>
 
 <li>Partners will not overtly market their products or services in their Physical/Mental Response or Problem.  They can utilize the products or services in the Response or Problem, but as a structural piece only.</li>  
 <li>Partners must attend the Survival Trial Planning Day and Pitch their Layouts/Ideas.</li>  
@@ -37,10 +37,10 @@ You are invited to participate as a Partner in the ST Sundowner Arena during the
 <li>Partners will provide their own Volunteers to run their Response or Problem</li>  
 
 
-<p><center><img src="images/Survival Trial Logo 1.png" 
-alt="Survival Trial Logo" width="595" height="496" border="10" /></center></p>
+<p><img src="images/Survival Trial Logo 1.png" 
+alt="Survival Trial Logo" width="595" height="496" border="10" /></p>
 
-# Survival Trial is the Ultimate Test.
+<h1>Survival Trial is the Ultimate Test.</h1>
 
 <p><center><a><img src="images/endurance.jpg" 
 alt="Survival Trial Endurance" width="500" height="500" border="10" /></a></center></p>
