@@ -20,8 +20,7 @@ The Survival Trial Evaluator is the backbone of every ST Arena.  If you are inte
 
 #Download the Evaluator Registration Form:
 
-<p><center><a href="http://survivaltrial.com/images/Survival%20Trial%20Evaluator%20Registration.pdf" target="_blank"></a><img src="images/pdf.jpg" 
-alt="ST Evaluator Registration" width="233" height="216" border="10" /></center></p>
+<p><center><a href="http://survivaltrial.com/images/Survival%20Trial%20Evaluator%20Registration.pdf" target="_blank"><img src="images/pdf.jpg" style="width:800px;height:315px;"></a></center></p>
 
  <img src="images/" style="width:800px;height:315px;"> 
 
