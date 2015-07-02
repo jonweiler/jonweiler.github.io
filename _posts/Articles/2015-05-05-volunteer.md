@@ -24,61 +24,64 @@ The Survival Trial Evaluator is the backbone of every ST Arena.  If you are inte
 
 <center><img src="images/pdf.jpg" style="width:233px;height:216px;"/></center> 
 
-<p><b><span>What to expect as an Evaluator:</span></b></p>
+##What to expect as an Evaluator: 
 
-What to expect as an Evaluator:
 
 1.Direct Interaction with the Competitors
 
-	a.The Evaluator is overall in charge of the Shooting Scenario or Physical Obstacle
 
-	b.Evaluators will have a scoring packet that includes:
+*The Evaluator is overall in charge of the Shooting Scenario or Physical Obstacle
 
-		i.Safety Brief
+*Evaluators will have a scoring packet that includes:
 
-		ii.Situation Script
+	*Safety Brief
 
-		iii.Scenario/Obstacle Procedures
+	*Situation Script
 
-		iv.Scoring Procedures
+	*Scenario/Obstacle Procedures
 
-		v.Emergency Procedures
+	*Scoring Procedures
 
-		vi.Radio/Communication Procedures
+	*Emergency Procedures
+
+	*Radio/Communication Procedures
+	
 
 2.Training for the Survival Trial
 
-	a.  Scenario Safety Procedures are provided and mandatory during the ST Arena Acclimation, 
+	*Scenario Safety Procedures are provided and mandatory during the ST Arena Acclimation, 
 	the day prior to the start of the Survival Trial
 
-	b.  No Evaluator will be in a position where they do not feel comfortable and confident
+	*No Evaluator will be in a position where they do not feel comfortable and confident
 
-	c.  All Scenarios/Obstacles will be run by two-person Evaluator Teams
+	*All Scenarios/Obstacles will be run by two-person Evaluator Teams
+	
 
 3.Radio/Communication Devices will be provided
 
+
 4.What is not provided for as an Evaluator:
 
-	a.Transportation
 
-	b.Housing
+*Transportation
 
-	c.Meals
+*Housing
 
-<tr>
-<tbody>
-<table>
-<td style="vertical-align: top;" width="173" height="38"><strong>Remember to follow the Survival Trial on YouTube!</strong><a href="http://www.youtube.com/user/SurvivalTrial12?feature=watch" target="_blank"><img class="alignnone size-full wp-image-970" src="images/yt.png" alt="youtube" width="96" height="96" /></a></td>
-</tr>
-</tbody>
-</table>
-<p class="MsoNormal" style="margin-left: .25in; text-align: center;" align="center"><b style="mso-bidi-font-weight: normal;"><span style="font-size: 12.0pt; line-height: 115%;"><a href="http://survivaltrial.com/wp-content/uploads/2013/08/Courage.jpg"><img class="alignnone size-medium wp-image-944" src="http://survivaltrial.com/wp-content/uploads/2013/08/Courage-300x168.jpg" alt="Courage" width="300" height="168" /></a></span></b></p>
-<p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span style="font-size: 20.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">Directions to the NRA Whittington Center:</span></b></p>
-<p style="text-align: center;"><iframe src="https://maps.google.com/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=218315345426577726206.00046e60a2271c453cd75&amp;ll=36.773766,-104.486074&amp;spn=0,0&amp;t=m&amp;output=embed" width="425" height="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <small>View <a style="color: #0000ff; text-align: left;" href="https://maps.google.com/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=218315345426577726206.00046e60a2271c453cd75&amp;ll=36.773766,-104.486074&amp;spn=0,0&amp;t=m&amp;source=embed">NRA Whittington Center</a> in a larger map</small></p>
-<p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span style="font-size: 14.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">From Colorado:</span></b></p>
-<p class="MsoNormal"><span style="font-size: 14.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">Take I-25 S until Exit 446.Off the exit, take Highway 64 for approximately 4 miles.Turn right at the NRA Whittington Center front Gate.</span></p>
-<p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span style="font-size: 14.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">From Albuquerque:</span></b></p>
-<p class="MsoNormal"><span style="font-size: 14.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">Take I-25 N until Exit 446.Off the exit, take Highway 64 for approximately 4 miles.Turn right at the NRA Whittington Center front Gate.</span></p>
-<p class="MsoNormal" style="text-align: center;" align="center"><span style="font-size: 14.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">The Survival Trial is a life-changing experience for both Competitors and Evaluators.We want you to come and experience the challenge that is life; the challenge that is the Survival Trial.Evaluators are also a major part of the ST Arena, and you will be highlighted in all Survival Trial and sponsored media. You may also be featured in National Televised Media.</span></p>
-<p class="MsoNormal" style="text-align: center;" align="center"><b style="mso-bidi-font-weight: normal;"><i style="mso-bidi-font-style: normal;"><span style="font-size: 22.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%;">Thank you again for volunteering as an Evaluator for the Survival Trial!We are looking forward to meeting you.Travel safe.</span></i></b></p>
+*Meals
+
+#Directions to the NRA Whittington Center:
+
+##From Colorado:
+
+Take I-25 S until Exit 446.Off the exit, take Highway 64 for approximately 4 miles.Turn right at the NRA Whittington Center front Gate.
+
+##From Albuquerque:
+
+Take I-25 N until Exit 446.Off the exit, take Highway 64 for approximately 4 miles.Turn right at the NRA Whittington Center front Gate.
+
+The Survival Trial is a life-changing experience for both Competitors and Evaluators.We want you to come and experience the challenge that is life; the challenge that is the Survival Trial.Evaluators are also a major part of the ST Arena, and you will be highlighted in all Survival Trial and sponsored media. You may also be featured in National Televised Media.
+
+#NRA Whittington Center Map:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=z155o1OMXysM.k-hqxpL98zDs" width="640" height="480"></iframe>
 
