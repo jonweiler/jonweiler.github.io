@@ -27,47 +27,47 @@ The Survival Trial Evaluator is the backbone of every ST Arena.  If you are inte
 ##What to expect as an Evaluator: 
 
 
-1.Direct Interaction with the Competitors
+1. Direct Interaction with the Competitors
 
 
-*The Evaluator is overall in charge of the Shooting Scenario or Physical Obstacle
+* The Evaluator is overall in charge of the Shooting Scenario or Physical Obstacle
 
-*Evaluators will have a scoring packet that includes:
+* Evaluators will have a scoring packet that includes:
 
-	*Safety Brief
+	* Safety Brief
 
-	*Situation Script
+	* Situation Script
 
-	*Scenario/Obstacle Procedures
+	* Scenario/Obstacle Procedures
 
-	*Scoring Procedures
+	* Scoring Procedures
 
-	*Emergency Procedures
+	* Emergency Procedures
 
-	*Radio/Communication Procedures
+	* Radio/Communication Procedures
 	
 
-2.Training for the Survival Trial
+2. Training for the Survival Trial
 
-	*Scenario Safety Procedures are provided and mandatory during the ST Arena Acclimation, 
+	* Scenario Safety Procedures are provided and mandatory during the ST Arena Acclimation, 
 	the day prior to the start of the Survival Trial
 
-	*No Evaluator will be in a position where they do not feel comfortable and confident
+	* No Evaluator will be in a position where they do not feel comfortable and confident
 
-	*All Scenarios/Obstacles will be run by two-person Evaluator Teams
+	* All Scenarios/Obstacles will be run by two-person Evaluator Teams
 	
 
-3.Radio/Communication Devices will be provided
+3. Radio/Communication Devices will be provided
 
 
-4.What is not provided for as an Evaluator:
+4. What is not provided for as an Evaluator:
 
 
-*Transportation
+* Transportation
 
-*Housing
+* Housing
 
-*Meals
+* Meals
 
 #Directions to the NRA Whittington Center:
 
