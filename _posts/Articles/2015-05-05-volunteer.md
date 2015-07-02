@@ -18,28 +18,10 @@ Become a Volunteer for Survival Trial!
 
 The Survival Trial Evaluator is the backbone of every ST Arena.  If you are interested in competing in a future Trial or just enjoy being outdoors with like-minded Individuals, volunteer and join us in the next Survival Trial!
 
+#Download the Evaluator Registration Form:
 
-<table style="top: 0px; left: 0px; width: 806px; height: 290px;" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td style="vertical-align: top;" width="204" height="39">
-<p style="text-align: center;"><a href="images/Survival Trial Evaluator Registration.pdf" target="_blank"><img src="images/pdf.jpg" alt="Evaluator Registration" width="233" height="216" border="10" /></a></center></p>
-<p style="text-align: center;"><strong>Download the Evaluator Registration .pdf and submit via email</strong></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p class="MsoNormalCxSpMiddle" style="text-align: center; line-height: normal;" align="center"><b style="mso-bidi-font-weight: normal;"><span style="font-size: 16.0pt; mso-bidi-font-size: 11.0pt;"> </span></b></p>
-
-<table style="top: 1550px; width: 564px; height: 49px;" width="771" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td style="vertical-align: top; text-align: left;" width="173" height="38">
-<h2 style="text-align: center;"><strong>Do not forget to follow us on Google+. We will be scheduling Live Updates throughout the each Survival Trial!</strong></h2>
-<a href="https://plus.google.com/100629561302318418390/posts" target="_blank"><img class="wp-image-969 aligncenter" src="images/googleplus.png" alt="google-plus-icon" width="93" height="93" /></a></td>
-</tr>
-</tbody>
-</table>
+<p><center><a href="images/Survival Trial Evaluator Registration" target="_blank"><img src="images/pdf.jpg" 
+alt="ST Evaluator Registration" width="233" height="216" border="10" /></a></center></p>
 
 
 <p><b><span>What to expect as an Evaluator:</span></b></p>
