@@ -21,18 +21,18 @@ analytics: true
  
 <center>__________________________________________________________________________________________________</center>
 
-<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html" target="_blank"><img src="images/sundownerbanner.png" 
-alt="STXI Sundowner" width="744" height="133" border="10" /></a></center></p>
+<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html" target="_blank"><img src="images/sundownerbanner.png" alt="STXI Sundowner" width="744" height="133" border="10" /></a></center></p>
+
 <center>__________________________________________________________________________________________________</center>
 	   	   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/99CGn8mMOwc" frameborder="0" allowfullscreen></iframe>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/99CGn8mMOwc" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1M6yrr70VFs" frameborder="0" allowfullscreen></iframe>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/1M6yrr70VFs" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKO_NwSCurs" frameborder="0" allowfullscreen></iframe>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/dKO_NwSCurs" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TwYMUp5B4m4" frameborder="0" allowfullscreen></iframe>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/TwYMUp5B4m4" frameborder="0" allowfullscreen></iframe>
 
 <center>__________________________________________________________________________________________________</center>
 
