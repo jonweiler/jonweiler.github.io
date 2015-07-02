@@ -10,7 +10,7 @@ analytics: true
 
 # Survival Trial is the Ultimate Test:
 
-<img src="images/SundownerMap.png"alt="Survival Trial Partner Map" width="800" height="800" border="10" />
+<p><img src="images/SundownerMap.png" alt="Survival Trial Partner Map" width="800" height="800" border="10" /></p>
 
 <h2>2015 Sundowner Arena</h2>
 
