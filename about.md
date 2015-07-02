@@ -15,38 +15,24 @@ analytics: true
   <p class="post-excerpt">Survival Trial is a one of a kind adventure race, designed to test every Competitor who sets foot in the ST Arena.  Every Survival Trial is different; you will not encounter the same thing in the same way, from Trial to Trial.  We are located in the foothills of the Rocky Mountains at the beautiful NRA Whittington Center, and offer very diverse and rugged environments.</p>
   
  
-  <p>Survival Trial is comprised of <strong>Defensive Shooting Scenarios</strong>, <strong>Disaster Response Situations</strong>, <strong>Problem Solving</strong> and <strong>Interaction with Role Players</strong>.</p>
+  <p>Survival Trial is comprised of <strong>Defensive Firearm Engagements</strong>, <strong>Disaster Response Situations</strong>, <strong>Problem Solving</strong> and <strong>Interaction with Role Players</strong>.</p>
   
   <p><center><img src="/images/stfnt (8).jpg" alt="RubyRed" style="width:250px;height:400px"> <img src="/images/stfnt (2).JPG" alt="RubyRed" style="width:300px;height:220px"></center></p> 
-  
+ 
+<center>__________________________________________________________________________________________________</center>
+
+<p><center><a href="http://store-survivaltrial-com.3dcartstores.com/STXI-Sundowner--September-17-19-2015_p_15.html" target="_blank"><img src="images/sundownerbanner.png" 
+alt="STXI Sundowner" width="744" height="133" border="10" /></a></center></p>
 <center>__________________________________________________________________________________________________</center>
 	   	   
-<div class="tiles">
-
-<div class="tile">
-  <h2 class="post-title">STX: Winterborn Race of Champions</h2>
-  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/99CGn8mMOwc" frameborder="0" allowfullscreen></iframe></p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">The Why of Survival Trial</h2>
-  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/1M6yrr70VFs" frameborder="0" allowfullscreen></iframe></p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">STVII: Daybreaker Begins</h2>
-  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/dKO_NwSCurs" frameborder="0" allowfullscreen></iframe></p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">STV: Sundowner Episode #1</h2>
-  <p class="post-excerpt"><iframe width="560" height="315" src="https://www.youtube.com/embed/TwYMUp5B4m4" frameborder="0" allowfullscreen></iframe></p>
-</div><!-- /.tile -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/99CGn8mMOwc" frameborder="0" allowfullscreen></iframe>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1M6yrr70VFs" frameborder="0" allowfullscreen></iframe>
 
-</div><!-- /.tiles -->	   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKO_NwSCurs" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwYMUp5B4m4" frameborder="0" allowfullscreen></iframe>
 
 <center>__________________________________________________________________________________________________</center>
 
