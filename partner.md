@@ -10,74 +10,98 @@ analytics: true
 
 #Survival Trial is the Ultimate Test:
 
+<p><center><a><img src="images/SundownerMap.png" 
+alt="Survival Trial Endurance" width="744" height="133" border="10" /></a></center></p>
+
 ##2015 Sundowner Arena
 
 You are invited to participate as a Partner in the ST Sundowner Arena during the week of September 17-19, 2015.   Survival Trial is a great way to connect with your customer base, directly as it relates to your product and/or services.  
 
 <li>Each Partner will have a section of the ST Arena to create Responses and Problems</li>
 
-	<li>a.	Your Organization can create Physical and Mental Scenarios within a series of parameters
-	<li>b.	Your Organization will be part of the Planning Phase of the Sundowner
-	<li>c.	Partners have the opportunity to participate in the After-Race, After-Party, immediately following the 								Trial.
+<li>Your Organization can create Physical and Mental Scenarios within a series of parameters
+<li>Your Organization will be part of the Planning Phase of the Sundowner
+<li>Partners have the opportunity to participate in the After-Race, After-Party, immediately following the 								Trial.
 
-<li>2.	NRA Whittington Center is the Site Sponsor:  (http://www.nrawc.org) 
-<li>3.	Whittington U (http://www.nrawc.org/training) and Professional Marksmen Inc. (http://www.professionalmarksmen.com) will create and facilitate all the Defensive Engagements in the ST Arena.
-<li>4.	Survival Trial will offer a Veteran Organization as a fundraising beneficiary:  Boot Campaign (http://www.bootcampaign.com) 
+<li>NRA Whittington Center is the Site Sponsor:  (http://www.nrawc.org) 
+<li>Whittington U (http://www.nrawc.org/training) and Professional Marksmen Inc. (http://www.professionalmarksmen.com) will create and facilitate all the Defensive Engagements in the ST Arena.
+<li>Survival Trial will offer a Veteran Organization as a fundraising beneficiary:  Boot Campaign (http://www.bootcampaign.com) 
 
 ##Guidelines:
-<li>1.	Partners will not overtly market their products or services in their Physical/Mental Response or Problem.  They can utilize the products or services in the Response or Problem, but as a structural piece only.  
-<li>2.	Partners must attend the Survival Trial Planning Day and Pitch their Layouts/Ideas.
-<li>3.	Partners will set up, run and take down their Responses and Problems
-<li>4.	Partners must not infringe on other Partners’ sections of the Arena
-<li>5.	Partners will provide additional items to help dress their Physical/Mental Response or Problem, as they see fit to enhance their overall goal or feel
-<li>6.	Partners will provide their own Volunteers to run their Response or Problem
+<li>Partners will not overtly market their products or services in their Physical/Mental Response or Problem.  They can utilize the products or services in the Response or Problem, but as a structural piece only.</li>  
+<li>Partners must attend the Survival Trial Planning Day and Pitch their Layouts/Ideas.</li>  
+<li>Partners will set up, run and take down their Responses and Problems</li>  
+<li>Partners must not infringe on other Partners’ sections of the Arena</li>  
+<li>Partners will provide additional items to help dress their Physical/Mental Response or Problem, as they see fit to enhance their overall goal or feel</li>  
+<li>Partners will provide their own Volunteers to run their Response or Problem</li>  
 
 
-
-<center>___________________________________________________________</center>
+<p><center><a><img src="images/endurance.jpg" 
+alt="Survival Trial Endurance" width="744" height="133" border="10" /></a></center></p>
 
 #Survival Trial is the Ultimate Test.
+
+<p><center><a><img src="images/endurance.jpg" 
+alt="Survival Trial Endurance" width="744" height="133" border="10" /></a></center></p>
 
 ##Test of Endurance:
 
 Movement is required in Survival Trial, this is a given.  Competitors will move by foot only, carrying only what they need to survive in the ST Arena.  There is also periods of darkness involved in the 24 Hour or 48 Hour races; movement does not stop.  
 
+<p><center><a><img src="images/skill.jpg" 
+alt="Survival Trial Endurance" width="744" height="133" border="10" /></a></center></p>
+
+
 ##Test of Skill (Not limited to):
 
-Land Navigation/Orienteering	
-Lashing
-Archery	Fire 
-Construction
-Evasion	
-Shelter Building
-Mechanics	
-Leverage
-Defensive Firearm Engagements	
-Construction
+<li>Land Navigation/Orienteering</li>  
+<li>Lashing</li>  
+<li>Archery	Fire</li>  
+<li>Construction</li>  
+<li>Evasion</li>  	
+<li>Shelter Building</li>  
+<li>Mechanics</li>  	
+<li>Leverage</li>  
+<li>Defensive Firearm Engagements</li>  	
+<li>Construction</li>  
+
+
+<p><center><a><img src="images/strength.jpg" 
+alt="Survival Trial Endurance" width="744" height="133" border="10" /></a></center></p>
 
 ##Test of Strength:
 
 The emotional state dictates the mental response that controls the physical reaction.  Strength does not always mean the ability to lift heavy objects; strength is the ability to go on when every part of your body is telling you to stop.
 
+<p><center><a><img src="images/equipment.jpg" 
+alt="Survival Trial Endurance" width="744" height="133" border="10" /></a></center></p>
+
 ##Test of Equipment
 
 We all have gear and we all have plans.  What we all lack is an opportunity to put those plans into motion.  Survival Trial is that opportunity.
+
+<p><center><a><img src="images/relationships.jpg" 
+alt="Survival Trial Endurance" width="744" height="133" border="10" /></a></center></p>
 
 ##Test of Relationships
 
 The Teams of Survival Trial endure everything together.  The highs and lows, failure and success; everything is earned as a Team.  
 
+<p><center><a><img src="images/perception.jpg" 
+alt="Survival Trial Endurance" width="744" height="133" border="10" /></a></center></p>
 
 ##Test of Perception
 
 We all have an idea of what we cannot do.  We see impossibility in many situations every day.  Survival Trial shows us what we can do, if we were only to try.
+
+<p><center><a><img src="images/preparation.jpg" 
+alt="Survival Trial Endurance" width="744" height="133" border="10" /></a></center></p>
 
 ##Test of Preparation
 
 Fitness is the cornerstone of a healthy lifestyle.  Life gets in the way of this sometimes.  The light will shine on success and failure in our preparation at different portions of the journey of Survival Trial.
 
 
-<center>___________________________________________________________</center>
 
 #Survival Trial Sundowner Arena
 
