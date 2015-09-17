@@ -1,0 +1,258 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <title>Template Documentation Template</title>
+    <!-- Framework CSS -->
+    <link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+    <!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+    <link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+    <style type="text/css" media="screen">
+        p, table, hr, .box {
+            margin-bottom: 25px;
+        }
+        .box p {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <h3 class="center alt">&ldquo;Clock&rdquo; Documentation by &ldquo;xxxx&rdquo; v1.0</h3>
+
+        <hr>
+
+        <h1 class="center">&ldquo;Clock&rdquo;</h1>
+
+        <div class="borderTop">
+            <div class="span-6 colborder info prepend-1">
+                <p class="prepend-top">
+                    <strong> Created: x/x/xxxx
+                        <br>
+                        By: Your Name
+                        <br>
+                        Email: <a href="mailto:youremail@yourdomain.com">youremail@yourdomain.com</a> </strong>
+                </p>
+            </div><!-- end div .span-6 -->
+
+            <div class="span-12 last">
+                <p class="prepend-top append-0">
+                    Thank you for purchasing my theme. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form <a href="http://themeforest.net/user/USERNAME">here</a>. Thanks so much!
+                </p>
+            </div>
+        </div><!-- end div .borderTop -->
+
+        <hr>
+
+        <h2 id="toc" class="alt">Table of Contents</h2>
+        <ol class="alpha">
+            <li>
+                <a href="#htmlStructure">HTML Structure</a>
+            </li>
+            <li>
+                <a href="#cssFiles">CSS Files and Structure</a>
+            </li>
+            <li>
+                <a href="#javascript">JavaScript</a>
+            </li>
+            <li>
+                <a href="#credits">Sources and Credits</a>
+            </li>
+        </ol>
+
+        <hr>
+
+        <h3 id="htmlStructure"><strong>A) HTML Structure</strong> - <a href="#toc">top</a></h3>
+        <p>
+            This theme has a fixed layout with one column. All information in the main content area is located in the div class mainarea. The general template structure remains the same for the hole template. The general structure is given below. </p>
+
+        <img src="assets/images/htmlstructure.jpg" alt="HTML Structure" />
+        
+        <h3><strong>Customization</strong></h3>
+        
+            <h4>Countdown</h4>
+            <p>At first, you need to set date and time when your site starts to work. Please open folder <strong>js</strong> and find   file <strong>clock.js</strong>. In this file you need to change date parameters on line 96.</p>
+            <p><img src="assets/images/setting_date.png" alt=""></p>
+            
+            <h4>Social</h4>
+            <p>Now let's social links container. You can find it on line 352.</p>
+            <p><img src="assets/images/social.png" alt=""></p>
+            <p>You simple need to place your social profile url (including http://) insted <strong>#</strong>.</p>
+            
+            <h4>Gallery</h4>
+            <p>If you choose gallery-style background you need to know how to upload your own images.</p>
+            <p>Open folder <strong>img/bg/</strong>. You can see 6 images there. Just simply place there your images, insted of the existing and change their names to bg1 - bg6.jpg</p>
+            
+            <h4>Video Background</h4>
+            <p>For changing video background you need to open file <stong>index-with-video-youtube.html</stong> and find line #184. There you need to change code of youtube video. For this, open your youtube video in browser and copy this code from page url.</p>
+            <p><img src="assets/images/video.png" alt=""></p>
+            
+            <h4>Dark Color Scheme</h4>
+            <p>You can use dark color scheme. For that you need to add this code to <strong>&lt;head&gt;</strong> section:</p>
+            <code>
+&lt;link rel="stylesheet" type="text/css" href="css/dark-theme.css"&gt;
+            </code>
+        
+        <br><br>
+    
+        <h3>Installation</h3>
+        <p>Please select one of Under Construction page styles (video, clouds, gallery), upload all folders, favicon and selected you html-file to folder on your server with using FTP. Reneme html-file <strong>index-with-....html</strong> to index.html. </strong></p>.
+        
+        <h3 id="htmlStructure"><strong>Features</strong></h3>
+        <p>
+            <strong>Fully responsive.</strong><br>
+            Clock is a fully responsive theme, which means it adapts to the screen resolution of the device it is being viewed on.
+        </p>
+        <p>
+            <strong>Page navigation.</strong><br>
+            Apply the 'main-menu' function to a container element. 
+            Clicking on any links within the container or scrolling will cause an animated scroll to the element whose ID is identified by that link's "hash" (if it exists). 
+            The currently links are used in the nav bar, navigation between sections and for auto nice scroll from one section to another, 
+            when the end of section is reached. 
+            The links for scrolling from one section to another are fixed and are always visible to the user.
+        </p>
+        <p>
+            <strong>Full screen background.</strong><br>
+            Section has its background: video background with animated gradient mask, image background with gradient mask and color background. 
+        </p>
+        <p>
+            <strong>Video screen background.</strong><br>
+            Added an option to connect the video from external resources. Exemple index-with-video-youtube.html
+        </p>
+        <p>
+            <strong>Cloud screen background.</strong><br>
+            Separate option with clouds on the screen. Example of connection to a file index-with-cloud.html
+        </p>
+        <hr>
+        <!-- - - - - - - -->
+
+        <h3 id="cssFiles"><strong>B) CSS Files and Structure</strong> - <a href="#toc">top</a></h3>
+
+        <p>
+            I'm using two CSS files in this theme. The first one contains general design of the theme.
+            Keep in mind, that these values might be overridden somewhere else in the files. The file is separated into sections. You can find "Table of contents" at the top of main.css </p>
+        
+        <p>
+            The second one contains responsive styling of the theme.
+        </p>
+        <p>
+            So, to ensure that your new styles are applied, make sure that they carry enough "weight" and that there isn't a style lower in the CSS file that is being applied after yours. </p>
+
+
+
+        <p>
+            If you would like to edit a specific section of the site, simply find the appropriate label in the CSS file, and then scroll down until you find the appropriate style that needs to be edited.</p>
+
+        <p>
+            Any social links that are placed within the single blog section have 32px font size and are of green color. If you would like to edit the display of these links, find the following section in the style sheet:</p>
+        <pre>	.social a {
+		change styles here:
+	}
+        </pre>
+
+        <hr>
+
+        <h3 id="javascript"><strong>C) JavaScript</strong> - <a href="#toc">top</a></h3>
+
+        <p>
+            This theme imports three Javascript files.
+        </p>
+
+        <ol>
+            <li>
+                jQuery
+            </li>
+            <li>
+                My custom scripts
+            </li>
+            <li>
+                Some plugin
+            </li>
+        </ol>
+        
+         <ol>
+            <li>
+                main.js - File for editing and add animations and data processing on the client side
+            </li>
+            <li>
+            	plugin.js - File to add, edit, and correct operation of plug-ins
+            </li>
+			<li>
+				Folder "vendor" - contains all the libraries java script
+			</li>
+		</ol>
+
+        <hr>
+
+        <h3 id="credits"><strong>D) Sources and Credits</strong> - <a href="#toc">top</a></h3>
+
+        <ul>
+            <li>Fonts:
+                <ul>
+                    <li>
+                        google Fonts Open Sans - <a href="http://www.google.com/fonts/specimen/Open+Sans">http://www.google.com/fonts/specimen/Open+Sans</a>
+                    </li>
+                    <li>
+                        google Fonts Exo 2 - <a href="http://fonts.googleapis.com/css?family=Exo+2">http://fonts.googleapis.com/css?family=Exo+2</a>
+                    </li>
+                    <li>
+                        google Fonts Josefin Sans - <a href="http://fonts.googleapis.com/css?family=Josefin+Sans">http://fonts.googleapis.com/css?family=Josefin+Sans</a>
+                    </li>
+                </ul>
+            </li>        
+            <li>Scripts:
+                <ul>
+                    <li>
+                        jQuery.cloud - <a href="http://www.script-tutorials.com/creating-animated-moving-clouds-using-html5/">http://www.script-tutorials.com/creating-animated-moving-clouds-using-html5/</a>
+                    </li>
+                    <li>
+                        jQuery v1.10.2.min - Inc. jQuery Foundation - <a href="https://jquery.org/">https://jquery.org/</a>
+                    </li>
+                    <li>
+                        jQuery Easing v1.3 - George McGinley Smith - <a href="http://gsgd.co.uk/sandbox/jquery/easing/">http://gsgd.co.uk/sandbox/jquery/easing/</a>
+                    </li>
+                    <li>
+                    	jQuery OkVideo  - <a href="http://okfoc.us/okvideo/">http://okfoc.us/okvideo/</a>
+                    </li>
+                    <li>
+                    	jQuery Tubular 1.0  - <a href="https://code.google.com/p/jquery-tubular/">https://code.google.com/p/jquery-tubular/</a>
+                    </li>
+                </ul>
+            </li>   
+            <li>Clock: (Are located in the folder "Clock")
+            	<ul>
+            		<li>
+            			ThreeExtras
+            		</li>
+            		<li>
+            			ThreeWebGL
+            		</li>
+            		<li>
+            			three.min
+            		</li>
+            	</ul>
+            </li>         
+        </ul>
+
+        <hr>
+
+        <p>
+            Once again, thank you so much for purchasing this theme. As I said at the beginning, I'd be glad to help you if you have any questions on this theme.
+            No guarantees, but I'll do my best to assist. 
+            If you have more general question related with the themes on ThemeForest, you may find the answer visiting the forums and asking your question in the "Item Discussion" section.
+
+        </p>
+
+        <p class="append-bottom alt large">
+            <strong>Your Name</strong>
+        </p>
+        <p>
+            <a href="#toc">Go To Table of Contents</a>
+        </p>
+
+        <hr class="space">
+    </div><!-- end div .container -->
+</body>
+</html>
