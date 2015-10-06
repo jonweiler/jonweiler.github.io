@@ -24,32 +24,138 @@
 		<link rel="stylesheet" type="text/css" href="css/responsive.css">
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 	</head>
-	<body>
+	<body onload="init()" class="snowflakes">
+		<script src="js/vendor/ThreeCanvas.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/vendor/snow.js" type="text/javascript" charset="utf-8"></script>
+	
+	
+		
+		<script>
+
+			var SCREEN_WIDTH = window.innerWidth;
+			var SCREEN_HEIGHT = window.innerHeight;
+
+			var container;
+
+			var particle;
+
+			var camera;
+			var scene;
+			var renderer;
+
+			var mouseX = 0;
+			var mouseY = 0;
+
+			var windowHalfX = window.innerWidth / 2;
+			var windowHalfY = window.innerHeight / 2;
+			
+			var particles = []; 
+			var particleImage = new Image();//THREE.ImageUtils.loadTexture( "img/ParticleSmoke.png" );
+			particleImage.src = 'img/snow.png'; 
+
+		
+		
+			function init() {
+
+				container = document.createElement('div');
+				container.setAttribute('id', 'snowflakes');
+				document.body.appendChild(container);
+
+				camera = new THREE.PerspectiveCamera( 75, SCREEN_WIDTH / SCREEN_HEIGHT, 1, 10000 );
+				camera.position.z = 1000;
+
+				scene = new THREE.Scene();
+				scene.add(camera);
+					
+				renderer = new THREE.CanvasRenderer();
+				renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+				var material = new THREE.ParticleBasicMaterial( { map: new THREE.Texture(particleImage) } );
+					
+				for (var i = 0; i < 500; i++) {
+
+					particle = new Particle3D( material);
+					particle.position.x = Math.random() * 2000 - 1000;
+					particle.position.y = Math.random() * 2000 - 1000;
+					particle.position.z = Math.random() * 2000 - 1000;
+					particle.scale.x = particle.scale.y =  1;
+					scene.add( particle );
+					
+					particles.push(particle); 
+				}
+
+				container.appendChild( renderer.domElement );
+
+	
+				document.addEventListener( 'mousemove', onDocumentMouseMove, false );
+				document.addEventListener( 'touchstart', onDocumentTouchStart, false );
+				document.addEventListener( 'touchmove', onDocumentTouchMove, false );
+				
+				setInterval( loop, 1000 / 60 );
+				
+			}
+			
+			function onDocumentMouseMove( event ) {
+
+				mouseX = event.clientX - windowHalfX;
+				mouseY = event.clientY - windowHalfY;
+			}
+
+			function onDocumentTouchStart( event ) {
+
+				if ( event.touches.length == 1 ) {
+
+					event.preventDefault();
+
+					mouseX = event.touches[ 0 ].pageX - windowHalfX;
+					mouseY = event.touches[ 0 ].pageY - windowHalfY;
+				}
+			}
+
+			function onDocumentTouchMove( event ) {
+
+				if ( event.touches.length == 1 ) {
+
+					event.preventDefault();
+
+					mouseX = event.touches[ 0 ].pageX - windowHalfX;
+					mouseY = event.touches[ 0 ].pageY - windowHalfY;
+				}
+			}
+
+			//
+
+			function loop() {
+
+			for(var i = 0; i<particles.length; i++)
+				{
+
+					var particle = particles[i]; 
+					particle.updatePhysics(); 
+	
+					with(particle.position)
+					{
+						if(y<-1000) y+=2000; 
+						if(x>1000) x-=2000; 
+						else if(x<-1000) x+=2000; 
+						if(z>1000) z-=2000; 
+						else if(z<-1000) z+=2000; 
+					}				
+				}
+			
+				camera.position.x += ( mouseX - camera.position.x ) * 0.05;
+				camera.position.y += ( - mouseY - camera.position.y ) * 0.05;
+				camera.lookAt(scene.position); 
+
+				renderer.render( scene, camera );
+
+				
+			}
+		</script>
 		<!--[if lt IE 7]>
 		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 		<![endif]-->
 
-		<ul class="cb-slideshow">
-			<li>
-				<span>Image 01</span>
-			</li>
-			<li>
-				<span>Image 02</span>
-			</li>
-			<li>
-				<span>Image 03</span>
-			</li>
-			<li>
-				<span>Image 04</span>
-			</li>
-			<li>
-				<span>Image 05</span>
-			</li>
-			<li>
-				<span>Image 06</span>
-			</li>
-		</ul>
-
+		
 		<section class="main-menu-container">
 			<div class="show_toggle"><a href="#"></a></div>
 			<ul class="main-menu">
@@ -90,6 +196,7 @@
 				</ul>
 			</div>
 </section>
+
 		<section class="mainarea">
 			<div id="clock" class="active">
 				<div class="clock-container">
@@ -130,10 +237,7 @@
 </div>
 
 <!--End mc_embed_signup-->
-						   <p>
-							Survival Trial is a one of a kind adventure race, designed to test every Competitor who sets foot in the ST Arena. Every Survival Trial is different; you will not encounter the same thing in the same way, from Trial to Trial. We are located in the foothills of the Rocky Mountains at the beautiful NRA Whittington Center, and offer very diverse and rugged environments.</p>
-<p>
-                        Survival Trial Scenarios are taken from our Everyday Life. This is a Survival Based Adventure Race; we will put you in situations that will put your body, mind and human spirit to the test.</p>
+						  
                             
 				</div>
 				</div>
@@ -141,8 +245,7 @@
 					<div class="container">
 						<h2 class="title">Survival-Based Adventure Race</h2>
 						
-                            <p>
-Survival Trial is comprised of Defensive Firearm Engagements, Disaster Response Situations, Problem Solving and Interaction with Role Players.
+                            <p>Survival Trial is a one of a kind adventure race, designed to test every Competitor who sets foot in the ST Arena. Every Survival Trial is different; you will not encounter the same thing in the same way, from Trial to Trial. We are located in the foothills of the Rocky Mountains at the beautiful NRA Whittington Center, and offer very diverse and rugged environments.
 						</p>
 						<p>
 							Survival Trial is not a linear race; you will have the ability to choose your journey in the ST Arena. This means that knowing to navigate is crucial to success in Survival Trial. It also gives you an advantage in the overall strategy of the Competition. You can choose your route to your advantage. </p>
@@ -209,9 +312,8 @@ Survival Trial is comprised of Defensive Firearm Engagements, Disaster Response 
 		<script src="clock/js/svg.min.js" type="text/javascript" charset="utf-8"></script>
 		<script src="clock/js/svg.easing.min.js" type="text/javascript" charset="utf-8"></script>
 		<script src="clock/js/svg.clock.min.js" type="text/javascript" charset="utf-8"></script>
-		<script src="js/vendor/ThreeWebGL.js" type="text/javascript" charset="utf-8"></script>
-		<script src="js/vendor/ThreeExtras.js" type="text/javascript" charset="utf-8"></script>
-		<script src="clock/js/jquery.timers.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="clock/js/jquery.timers.min.js" type="text/javascript" charset="utf-8"></script>	
 		<script src="clock/js/clock.js" type="text/javascript" charset="utf-8"></script>
+		
 	</body>
 </html>
