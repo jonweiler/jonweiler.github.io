@@ -2,7 +2,7 @@
 layout: default
 slides:
   - bg: images/@stock/fullscreen-slide-1.jpg
-    title: we are a tough team
+    title: The Ultimate Test
     tagline: we deliver great things that you definitely love ...
     buttons:
       - text: view portfolio
@@ -26,7 +26,7 @@ slides:
         url: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/11/out-short.webm
       - type: mp4
         url: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/11/out-short.mp4
-  - bg: ../images/@stock/fullscreen-slide-3.jpg
+  - bg: /images/@stock/fullscreen-slide-3.jpg
     title: Always have a dream
     tagline: It is very quick to build a website with this theme
     buttons:
@@ -240,7 +240,7 @@ socials:
             <div class="video_image_touch" style="background-image: url({{slide.bg}});"></div>
             <div class="video_wrap">
               <div class="overlay" style="background: #000000;opacity: 0.6;"></div>
-              <video autoplay=" " class="bg_video" loop=" " muted=" " preload="auto">
+              <video autoplay class="bg_video" loop muted preload="auto">
                 {% for video in slide.videos %}
                   <source src="{{video.url}}" type="video/{{video.type}}">
                 {% endfor %}
