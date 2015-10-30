@@ -3,7 +3,7 @@ title: Survival Trial
 email: info@survivaltrial.com
 description: > # this means to ignore newlines until "baseurl:"
   Survival Trial is the Ultimate Test - The Ultimate Adventure Race that incorporates survival based situations, first aid, orienteering, defensive shooting scenarios, and problem solving.  Survival Trial is 24-48 hours in length, open to solo and team competitors.
-baseurl: "survivaltrial.com" # the subpath of your site, e.g. /blog/
+baseurl: "http://survivaltrial.com" # the subpath of your site, e.g. /blog/
 # url: "http://survivaltrial.com" # the base hostname & protocol for your site
 twitter_username: survivaltrial
 github_username:  
