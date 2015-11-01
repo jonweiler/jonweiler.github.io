@@ -5,7 +5,7 @@ date:   2015-11-01 14:36
 image:  images/@stock/blog-8.jpg
 excerpt:  This is a training placeholder to use as a test
 
-categories: equipment, training
+categories: equipment training
 tags: expect, survival trial equipment
 author: Jon Weiler
 ---
