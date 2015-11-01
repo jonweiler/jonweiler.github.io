@@ -5,7 +5,7 @@ date:   2015-10-31 10:22:12
 image:  images/@stock/blog-9.jpg
 excerpt:  Suggested equipment for success in the ST Arenas.
 
-categories: suggested equipment
+categories: equipment
 tags: expect, survival trial equipment
 author: Jon Weiler
 ---
