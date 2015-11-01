@@ -5,6 +5,27 @@ layout: blog
 <div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-9 columns'>
+    
+    {% for post in site.posts %}
+ {% assign thisyear = post.date | date: "%B %Y" %}
+ {% assign prevyear = post.previous.date | date: "%B %Y" %}
+ {% assign counter = counter | plus: 1 %}
+
+  {% if thisyear != prevyear %}
+<h2 class="archive"><a>{{ thisyear }}</a> <i class="fa fa-cube"></i>  
+      {{counter }}</h2>
+
+<ul>
+  {% assign fli = forloop.index | minus: counter %}
+  {% for post2 in site.posts limit: counter offset: fli %} 
+    <li><a href="{{ post2.url }}">{{ post2.title }}</a> 
+    <time> &mdash; {{ post2.date | date: "%a %e-%b-%Y"}}</time> 
+    </li>
+  {% endfor %}
+</ul>   
+ {% assign counter = 0 %}
+  {% endif %}
+{% endfor %}
 
       {% for post in paginator.posts %}
         <div class='big mod modBlogPost'>
@@ -57,7 +78,7 @@ layout: blog
   <div class='two spacing'></div>
   <div class='row'>
     <div class='large-12 columns'>
-      <p>2014 {{site.title}}. All rights reserved.</p>
+      <p>2015 {{site.title}}. All rights reserved.</p>
     </div>
   </div>
   <div class='spacing'></div>
