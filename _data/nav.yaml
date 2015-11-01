@@ -26,8 +26,7 @@
     - name: Blog 
       path: blog/
     - name: Equipment List
-      path: http://survivaltrial.com/equipment/2015/10/31/equipment-list.html
+      path: equipment/2015/10/31/equipment-list.html
     - name: About Survival Trial
       path: blog-masonry/
-    - name: Register
-      path: http://store-survivaltrial-com.3dcartstores.com/Register-_c_8.html
+
