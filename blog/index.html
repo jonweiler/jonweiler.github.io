@@ -2,29 +2,22 @@
 layout: blog
 ---
 
-<div class='full' style='background: #f5f5f5'>
-  <div class='row'>
-    <div class='large-9 columns'>
-    
-    {% for post in site.posts %}
- {% assign thisyear = post.date | date: "%B %Y" %}
- {% assign prevyear = post.previous.date | date: "%B %Y" %}
- {% assign counter = counter | plus: 1 %}
+{% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}
+{%unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign sortedcats = site_cats | split:',' | sort %}
 
-  {% if thisyear != prevyear %}
-<h2 class="archive"><a>{{ thisyear }}</a> <i class="fa fa-cube"></i>  
-      {{counter }}</h2>
 
+{% for category in sortedcats %}
+{{category }}{{site.categories[category] | size }}
 <ul>
-  {% assign fli = forloop.index | minus: counter %}
-  {% for post2 in site.posts limit: counter offset: fli %} 
-    <li><a href="{{ post2.url }}">{{ post2.title }}</a> 
-    <time> &mdash; {{ post2.date | date: "%a %e-%b-%Y"}}</time> 
+  {% for post in site.categories[category] %}
+  {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    <time> &mdash; {{ post.date | date: "%a %e-%b-%Y" }}</time> 
     </li>
+    {% endif %}
   {% endfor %}
-</ul>   
- {% assign counter = 0 %}
-  {% endif %}
+</ul>
 {% endfor %}
 
       {% for post in paginator.posts %}
