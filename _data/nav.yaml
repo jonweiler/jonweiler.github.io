@@ -23,11 +23,11 @@
   path: blog/
   section_id: blog
   children:
-    - name: Blog Default
+    - name: Blog 
       path: blog/
-    - name: Blog Fullwidth
-      path: blog-fullwidth/
-    - name: Blog Masonry
+    - name: Equipment List
+      path: http://survivaltrial.com/equipment/2015/10/31/equipment-list.html
+    - name: About Survival Trial
       path: blog-masonry/
-    - name: Blog Single
-      path: design/2015/05/01/a-cup-of-coffee-for-you.html
+    - name: Register
+      path: http://store-survivaltrial-com.3dcartstores.com/Register-_c_8.html
