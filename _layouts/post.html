@@ -1,91 +1,90 @@
 ---
 layout: blog
 ---
-<!-- Look the author details up from the site config. -->
-{% assign author = site.data.authors[page.author] %}
-
-<!-- Output author details if some exist. -->
-{% if author %}
-    <span>
-        <!-- Personal Info. -->
-        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
-    </span>
+<head>
+{% include head.html %}
+{% if site.dropcap %}<style type="text/css">@media only screen and (min-width:43.75em){.notepad-post-content div>p:first-child:first-letter{float:left;font-size:4.688rem;line-height:4.375rem;padding-top:.25rem;padding-right:.5rem;padding-left:.188rem;font-family:serif}}</style>{% endif %}
+</head>
+<body class="post-template" itemscope itemtype="http://schema.org/WebPage">  
+{% if page.imagefeature %}
+        <main id="notepad-post-container" class="notepad-post-container intro-effect-sliced" role="main">
+            <header class="notepad-post-header">
+                <div class="bg-img"></div>
+                
+                <div class="notepad-post-menu-header">
+{% else %}
+        <main id="notepad-post-container-simple" class="notepad-post-container-simple" role="main">
+            <header class="notepad-post-header-simple">
+                <div class="notepad-post-menu-header-simple">
 {% endif %}
+                    <a class="notepad-blog-logo" href="{{ site.url }}">
+                        <img src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" />
+                    </a>
 
-<div class='full' style='background: #f5f5f5'>
-  <div class='row'>
-    <div class='large-9 columns'>
-      <div class='mod modBlogPost big'>
-        <div class='images'>
-          {% if page.image %}
-            <div class='image'><img alt="" src="{{site.url}}/{{page.image}}" /></div>
-          {% endif %}
-        </div>
-        <div class='content'>
-          <p class='info'>
-            <span>{{page.date | date: "%B %d, %Y" }}</span>
-            /
-            <span>
-              by
-              <a href="#">{{page.author}}</a>
-            </span>
-            /
-            <span>
-              In
-              {% for cat in page.categories %}
-                <a href="#">{{cat}}</a>
-                {% unless forloop.last %}
-                    ,
-                {% endunless %}
-              {% endfor %}
-            </span>
-            /
-            <span>
-              <a href="#comments">4 comments</a>
-            </span>
-          </p>
-          <h3><a href="{{page.url}}">{{page.title}}</a></h3>
-          {{ content }}
-        </div>
-      </div>
-      <div class='two spacing'></div>
-      <a id='comments'></a>
-      {% include comments.html %}
-      <div class='four spacing'></div>
-      <div id='comments-form'>
-        <h3>Your comment</h3>
-        <form accept-charset='UTF-8' action='#' method='post'>
-          <p class='name'>
-            <label for='name'>Your Name</label>
-            <input class='input-text required' id='name' name='name' type='text'>
-          </p>
-          <p class='email'>
-            <label for='email'>Your Email</label>
-            <input class='input-text required' id='email' name='email' type='text'>
-          </p>
-          <p class='message'>
-            <label for='message'>Your Message</label>
-            <textarea class='required' cols='80' id='message' name='message' rows='5'></textarea>
-          </p>
-          <div class='spacing'></div>
-          <p>
-            <input class='button' type='submit' value='Send Message'>
-          </p>
-        </form>
-      </div>
-      <div class='four spacing'></div>
+                <div class="notepad-blog-menu">      
+    <div class="notepad-mobile-menu show-for-small">
+        <a href="#"><i class="fa fa-bars"></i></a>
     </div>
-    <div class='large-3 columns' id='sidebar'>
-      {% include sidebar.html %}
-    </div>
-  </div>
+    <ul class="notepad-menu">
+        <li class="notepad-mobile-close-btn show-for-small text-right">
+            <a href="#"><i class="fa fa-times"></i></a>
+        </li>
+{% for link in site.links %}
+            <li>{% if link.external %}
+                    <a href="{{ link.url }}">{{ link.title }}</a>
+                {% else %}
+                    <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+                {% endif %} </li>
+{% endfor %}            
+           <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
+    </ul>
+
 </div>
-<div class='full no-padding' style='background: #111'>
-  <div class='two spacing'></div>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <p>2014 {{site.title}}. All rights reserved.</p>
+            </div>
+{% if page.imagefeature %}
+            <div class="notepad-post-title bg-check">
+                <h1>{{ page.title }}</h1>
+                <p>by <strong>{{ site.owner.name }}</strong> &#8212; {% assign tagsize = page.tags.size %}{% if tagsize != 0 %}on {% for tag in page.tags %}<a href="{{ site.url }}/tags/index.html#{{ tag | cgi_encode }}" data-toggle="tooltip" title="Posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&comma;&nbsp;{% endunless %}{% endfor %}{% endif %} <strong><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %b %Y" }}</time></strong></p>
+            </div>
+            <div class="bg-img"></div>
+        </header>
+        <button class="trigger bg-check" data-info="Read more"><span>Trigger</span></button>
+        <img src="{{ site.url }}/images/{{ page.imagefeature }}" alt="cover-image" />
+{% else %}
+                <div class="notepad-post-title-simple row">
+                    <div class="small-12 columns">
+                        <div class="notepad-post-meta-simple">
+                            <h1>{{ page.title }}</h1>
+                            <p>by <strong>{{ site.owner.name }}</strong> &#8212; {% assign tagsize = page.tags.size %}{% if tagsize != 0 %}on {% for tag in page.tags %}<a href="{{ site.url }}/tags/index.html#{{ tag | cgi_encode }}" data-toggle="tooltip" title="Posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&comma;&nbsp;{% endunless %}{% endfor %}{% endif %} <strong><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %b %Y" }}</time></strong></p>
+                        </div>
+                    </div>
+                </div>
+            </header>
+{% endif %}
+        {% if page.imagefeature %}<article class="notepad-post-content post">{% else %}<article class="notepad-post-content post tag-simple">{% endif %}
+            <div>{{ content }}
+            </div>
+        </article>
+        <div class="cf"></div>
+{% if site.share %}{% include share.html %}{% endif %}
+        <div class="cf"></div>
+        
+{% include signoff.html %} 
+        
+        <div class="cf"></div>
+        {% if site.disqus_shortname and page.comments == true %}
+        <section class="notepad-disqus row">
+    <div class="small-12 columns">
+        <h1 class="notepad-comments-header">Comments</h1>
+        <div id="disqus_thread"></div>
+        {% include disqus_comments.html %}
     </div>
-  </div>
-  <div class='spacing'></div>
-</div>
+</section>
+{% endif %}
+        <div class="cf"></div>
+
+    {% include footer.html %} 
+</main>    
+{% include scripts.html %} 
+</body>
+</html>
