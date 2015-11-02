@@ -4,7 +4,7 @@
 - name: About
   path: "#about"
   section_id: about
-- name: Services
+- name: Expect
   path: "#services"
   section_id: services
 - name: Info
