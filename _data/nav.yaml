@@ -7,7 +7,7 @@
 - name: Services
   path: "#services"
   section_id: services
-- name: Work
+- name: Info
   path: "#work"
   section_id: work
 - name: Team
@@ -28,5 +28,5 @@
     - name: Equipment List
       path: equipment/2015/10/31/equipment-list.html
     - name: About Survival Trial
-      path: blog-masonry/
+      path: about/2015/11/02/about-survival-trial.html
 
