@@ -9,6 +9,14 @@ twitter_username: survivaltrial
 github_username:  
 disqus_shortname: survivaltrial
 
+# Owner/author information
+owner:
+  name:           Jon Weiler
+  avatar:         images/@stock/member-1.jpg
+  email:          jonw@survivaltrial.com
+  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+
+
 # Build settings
 markdown: kramdown
 
