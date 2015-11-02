@@ -8,6 +8,7 @@ excerpt:  Learn more about Survival Trial
 categories: about
 tags: survival trial, about, training
 author: Jon Weiler
+comments:  true
 ---
 
 #Adventure 
