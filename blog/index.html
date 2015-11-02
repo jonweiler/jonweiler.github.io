@@ -19,13 +19,13 @@ layout: blog
               /
               <span>
                 by
-                <a href="">{{post.author}}</a>
+                <a href="http://jonweiler.com">{{post.author}}</a>
               </span>
               /
               <span>
                 In
                 {% for cat in post.categories %}
-                  <a href="#">{{cat}}</a>
+                  <a href="{{cat.url}}">{{cat}}</a>
                   {% unless forloop.last %}
                       ,
                   {% endunless %}
@@ -33,7 +33,7 @@ layout: blog
               </span>
               /
               <span>
-                <a href="#">4 commetns</a>
+                    <script id="dsq-count-scr" src="//survivaltrial.disqus.com/count.js" async></script>
               </span>
             </p>
             <h3><a href="{{post.url}}">{{post.title}}</a></h3>
