@@ -31,9 +31,9 @@ author: Jon Weiler
 <li>Hearing Protection</li>
 <li>Eye Protection</li>
 <li>Semi-Automatic Rifle x 80 rounds per person
-		(Staged Guns: 9mm)</li>
+		(Staged Guns: 5.56)</li>
 <li>Semi-Automatic Pistol x 100 rounds per person
-		(Staged Guns:  5.56)</li>
+		(Staged Guns: 9mm)</li>
 <li>Shotgun:  10 rounds birdshot; 10 rounds slug
 		(Staged Guns:  12 Gauge)</li>
 	
@@ -44,7 +44,7 @@ author: Jon Weiler
 
 ####If you are not into firearms, you do not have to negotiate any of the firearm scenarios.  You do not have to provide a firearm to compete.  We will have Stage Guns available for each Shooting Scenario.  
 
-####You will be responsible for providing/carrying your ammunition if you want to negotiate the Shooting Scenarios, along with hearing and eye protection.  If you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course the day prior to each Survival Trial.
+####You will be responsible for providing/carrying your ammunition if you want to negotiate the Shooting Scenarios, along with hearing and eye protection.  If you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course prior to each Survival Trial.
 
 ####Note: Each ST Arena is designed to allow every Competitor the opportunity to collect the maximum amount of points.  We work diligently to ensure that no one Competitor has an advantage over another.  It all comes down to drive and strategy. 
 
