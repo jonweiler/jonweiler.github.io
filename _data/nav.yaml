@@ -19,6 +19,9 @@
 - name: Contact
   path: "#contact"
   section_id: contact
+- name: Register
+  path: "http://store-survivaltrial-com.3dcartstores.com/Register-_c_8.html"
+  
 - name: Blog
   path: blog/
   section_id: blog
