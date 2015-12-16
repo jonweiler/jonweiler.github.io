@@ -16,28 +16,28 @@ comments:  true
 
 ###1st Survivors:  Team Chupacabra
 
-•	1220 Points
-•	Team Members:  Brett Eisenberg and Bryan Yeung
+* 1220 Points
+* Team Members:  Brett Eisenberg and Bryan Yeung
 
 ###2nd Survivors:  Team Wanders
 
-•	1130 Points
-•	Team Members:  Tom Lewis and Doug Looney
+* 1130 Points
+* Team Members:  Tom Lewis and Doug Looney
 
 ###3rd Survivors:  Team Hornady
 
-•	1120 Points
-•	Team Members:  Jayden Quinlan and Riley McElroy
+* 1120 Points
+* Team Members:  Jayden Quinlan and Riley McElroy
 
 ###4th Survivors:  Team No Worries
 
-•	850 Points
-•	Team Members:  Jeremiah Ward and 
+* 850 Points
+* Team Members:  Jeremiah Ward and 
 
 ###5th Survivors:  Team Lost Boys
 
-•	670 Points
-•	Team Members:  Rich Colonel and John Ness
+* 670 Points
+* Team Members:  Rich Colonel and John Ness
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0OrcJP_cYlJfykdXBf9bFH4" frameborder="0" allowfullscreen></iframe>
 

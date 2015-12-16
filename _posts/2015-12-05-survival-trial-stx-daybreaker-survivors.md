@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  STX: Daybreaker Survivors
+title:  STX DaybreakerSurvivors
 date:   2015-12-16 14:36
 image:  images/articles/daybreakerslider.png
-excerpt:  Survivors from the May 22-24, 2015 STX: Daybreaker
+excerpt:  STX: Daybreaker Survivors
 
 categories: about
 tags: survival trial, about, training
 author: Jon Weiler
 comments:  true
 ---
-
 
 <h1><center>2015 STX: Daybreaker Map</center></h1>
 
@@ -34,7 +33,6 @@ comments:  true
 * Deutsch Bonus:  Nein
 
 
-<center>__________________________________________________________________________________________________</center>
 
 
 <h1><center>48 Hour Race: Solo</center></h1>
@@ -54,7 +52,6 @@ comments:  true
 * Scavenger Hunt:  250 Points
 * Deutsch Bonus:  Nein
 
-<center>__________________________________________________________________________________________________</center>
 
 
 <h1><center>24 Hour Race: Solo</center></h1>
@@ -74,7 +71,6 @@ comments:  true
 * Scavenger Hunt:  400 Points
 * Deutsch Bonus:  Ja - 500 Gesamtpunkte
 
-<center>__________________________________________________________________________________________________</center>
 
 
 <center><img src="/images/articles/Nack2.jpg" alt="nack" width="600" height="400" border="10"/></center>
