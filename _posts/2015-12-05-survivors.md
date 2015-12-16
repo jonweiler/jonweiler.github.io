@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  Survival Trial - STX: Daybreaker Survivors
-date:   2015-12-16 10:22:12
+title:  Survivors
+date:   2015-12-16 14:36
 image:  images/articles/daybreakerslider.png
-excerpt:  May 
+excerpt:  Survivors from Trials past
 
-categories: st arena
-tags: expect, survival tria, arena, 2015, daybreaker
+categories: about
+tags: survival trial, about, training
 author: Jon Weiler
+comments:  true
 ---
 
 
