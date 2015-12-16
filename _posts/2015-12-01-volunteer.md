@@ -17,7 +17,6 @@ The Survival Trial Evaluator is the backbone of every ST Arena.  If you are inte
 
 #Download the Evaluator Registration Form:
 
-![Volunteer Form]({{ site.url }}/images/articles/pdf.jpg) 
 
 [![Volunteer Form]({{ site.url }}/images/articles/pdf.jpg)](http://survivaltrial.com/images/articles/Survival%20Trial%20Evaluator%20Registration.pdf)
 
@@ -84,19 +83,3 @@ The Survival Trial is a life-changing experience for both Competitors and Evalua
 
  
 
-![STX Daybreaker - BigBird]({{ site.url }}/images/articles/bigbird2.jpg) 
-
-##4th Survivor - Callsign: BigBird 
-
-###Total Points:  1930
-
-* Defensive Engagements:  530 Points
-* Responses:  800 Points
-* Golden Bricks:  500 Points
-* Bonus Points:  0
-* Karma Points:  0 Points
-* Scavenger Hunt:  100 Points
-* Deutsch Bonus:  Nein
-
-
-#Great job to all the STX: Daybreaker Competitors! 
