@@ -2,7 +2,7 @@
 layout: post
 title:  Survivors
 date:   2015-12-16 14:36
-image:  images/articles/daybreakerslider.png
+image:  images/articles/survivors.jpg
 excerpt:  Survivors from Trials past
 
 categories: about
