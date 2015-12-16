@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Survival Trial - STX: Daybreaker Survivors
-date:   2015-12-05 10:22:12
+date:   2015-12-15 10:22:12
 image:  images/articles/daybreakerslider.png
 excerpt:  May 
 
