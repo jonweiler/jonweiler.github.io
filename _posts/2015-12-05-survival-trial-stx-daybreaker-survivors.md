@@ -11,9 +11,6 @@ author: Jon Weiler
 comments:  true
 ---
 
-<h1><center>2015 STX: Daybreaker Map</center></h1>
-
-<iframe height="600px" width="960px" src="http://ec2-52-10-92-147.us-west-2.compute.amazonaws.com/event/st-daybreaker-2015"></iframe>
 
 
 <h1><center>48 Hour Race: Team</center></h1>
