@@ -105,6 +105,8 @@ comments:  true
 * 465 Points 
 * Did not finish
 
+- - -
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0NgEHdsDZVA0jcNaoxUtfHP" frameborder="0" allowfullscreen></iframe>
 
 #STIII:  Winterborn Survivors:
@@ -134,10 +136,13 @@ comments:  true
 * 540 Points
 * Team Members:  Nicole Ruby and Sandy Leder
 
+- - -
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0MTUquylYzA1grTTEyJqgCg" frameborder="0" allowfullscreen></iframe>
 
 #STIV: Daybreaker Survivors
 
+- - -
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0O8YygK3ffOURRp1W1NcLZM" frameborder="0" allowfullscreen></iframe>
 
@@ -176,6 +181,8 @@ comments:  true
 ###8th Survivors:  Team Valhalla 
 
 * 1700 points
+
+- - -
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0N81EJ___1GkL7vThlPWVeT" frameborder="0" allowfullscreen></iframe>
 
@@ -217,11 +224,15 @@ The race began with three (3) 24 Hour Team Competitors, one (1) Solo 48 Hour Com
 * Total Points: 3030
 * Total Distance Moved: 61.07 miles
 
+- - -
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0Nxt53uc-FXIgm7u62Gsil_" frameborder="0" allowfullscreen></iframe>
 
 #STVIII: Sundowner Survivors:
 
-##Final Standings from the Survival Trial - STVIII: Sundowner 24 Hour Team:
+- - -
+
+##STVIII: Sundowner 24 Hour Team:
 
 ###First Survivors: Team Hornady
 
@@ -240,7 +251,9 @@ The race began with three (3) 24 Hour Team Competitors, one (1) Solo 48 Hour Com
 * Total Points: 830
 * Total Distance Moved: 28.5 Miles
 
-##Final Standings from the Survival Trial - STVIII: Sundowner 24 Hour Solo:
+- - -
+
+##STVIII: Sundowner 24 Hour Solo:
 
 ###First Survivor: Callsign: Rocketbob
 
@@ -248,7 +261,9 @@ The race began with three (3) 24 Hour Team Competitors, one (1) Solo 48 Hour Com
 * Total Points: 1570
 * Total Distance Moved: 41.43 Miles
 
-##Final Standings from the Survival Trial - STVIII: Sundowner 48 Hour Solo:
+- - -
+
+##STVIII: Sundowner 48 Hour Solo:
 
 ###First Survivor: Callsign: Trigger-1
 
@@ -261,7 +276,9 @@ The race began with three (3) 24 Hour Team Competitors, one (1) Solo 48 Hour Com
 * Total Points: 1790
 * Total Distance Moved: 55.89 Miles
 
-##Final Standings from the Survival Trial - STVIII: Sundowner 72 Hour Team:
+- - -
+
+##STVIII: Sundowner 72 Hour Team:
 
 ###First Survivors: Team CRG
 
@@ -269,7 +286,9 @@ The race began with three (3) 24 Hour Team Competitors, one (1) Solo 48 Hour Com
 * Total Points: 5860
 * Total Distance Moved: 76.94 Miles
 
-##Final Standings from the Survival Trial - STVIII: Sundowner 72 Hour Solo:
+- - -
+
+##STVIII: Sundowner 72 Hour Solo:
 
 ###First Survivor: Callsign: Zeke
 

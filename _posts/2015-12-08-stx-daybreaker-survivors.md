@@ -12,268 +12,116 @@ comments:  true
 ---
 
 
-#STI: “By Moonlight” Survivors:
+#2015 STX: Daybreaker Map 
 
-###1st Survivors:  Team Chupacabra
+<iframe height="600px" width="960px" src="http://ec2-52-10-92-147.us-west-2.compute.amazonaws.com/event/st-daybreaker-2015"></iframe>
 
-* 1220 Points
-* Team Members:  Brett Eisenberg and Bryan Yeung
 
-###2nd Survivors:  Team Wanders
+#48 Hour Race: Team
 
-* 1130 Points
-* Team Members:  Tom Lewis and Doug Looney
+![Boone and Crockett]({{ site.url }}/images/articles/BooneandCrockett2.jpg)
 
-###3rd Survivors:  Team Hornady
 
-* 1120 Points
-* Team Members:  Jayden Quinlan and Riley McElroy
+##1st Survivor - Team Boone and Crockett
 
-###4th Survivors:  Team No Worries
+###Total Points:  6060
 
-* 850 Points
-* Team Members:  Jeremiah Ward and 
+* Defensive Engagements:  1760 Points
+* Responses:  2000 Points
+* Golden Bricks:  1500 Points
+* Karma Points:  300 Points
+* Scavenger Hunt:  500 Points
+* Deutsch Bonus:  Nein
 
-###5th Survivors:  Team Lost Boys
 
-* 670 Points
-* Team Members:  Rich Colonel and John Ness
 
-- - -
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0OrcJP_cYlJfykdXBf9bFH4" frameborder="0" allowfullscreen></iframe>
+#48 Hour Race: Solo 
 
-#STII:  “By Daylight” Survivors
+![STX Daybreaker - Rocketbob]({{ site.url }}/images/articles/Rocketbob22.jpg)
+ 
 
-###1st Place: Team Ruby Red 
 
-* 2180 Team Points 
-* Team Members:  Steve and Nicole Ruby
+##1st Survivor - Callsign: Rocketbob 
 
-###2nd Place: Team Merka 
+###Total Points:  4920
 
-* 1610 Team Points 
-* Finished in 21 hours, 27 minutes
+* Defensive Engagements:  1770 Points
+* Responses:  1700 Points
+* Golden Bricks:  500 Points
+* Bonus Points:  300 Points - 1st in Race to the Start!
+* Karma Points:  400 Points
+* Scavenger Hunt:  250 Points
+* Deutsch Bonus:  Nein
 
-###3rd Place: Team Valhalla Armory 
 
-* 1520 Team Points
-* Finished in 22 hours, 13 minutes
 
-###4th Place: Team Hillbillies 
+#24 Hour Race: Solo 
 
-* 1420 Team Points 
-* Did not cross the finish line
+![STX Daybreaker - DTeam]({{ site.url }}/images/articles/Dteam2.jpg)
+ 
 
-###5th Place: Team CFTF 
 
-* 1410 Team Points 
-* Did not cross the finish line
+##1st Survivor - Callsign: D-Team 
 
-###6th Place: Team C.A.M.B. 
+###Total Points:  5785
 
-* 1140 Team Points 
-* Finished in 22 hours, 27 minutes
+* Defensive Engagements:  2285 Points
+* Responses:  2000 Points
+* Golden Bricks:  500 Points
+* Bonus Points:  100 Points - Loss of Time
+* Karma Points:  0 Points
+* Scavenger Hunt:  400 Points
+* Deutsch Bonus:  Ja - 500 Gesamtpunkte
 
-###7th Place: Team Del Taco 
 
-* 970 Team Points 
-* Did not cross the finish line
 
-###8th Place: Team Texans 
+![STX Daybreaker - NACK]({{ site.url }}/images/articles/Nack2.jpg) 
 
-* 960 Team Points 
-* Finished in 23 hours, 24 minutes
+##2nd Survivor - Callsign: NACK 
 
-###9th Place: Team CRG 
+###Total Points:  4710
 
-* 910 Team Points 
-* Did not cross the finish line
+* Defensive Engagements:  2260 Points
+* Responses:  1700 Points
+* Golden Bricks:  0 Points
+* Bonus Points:  300 Points - 1st in Race to the Start!
+* Karma Points:  0 Points
+* Scavenger Hunt:  450 Points
+* Deutsch Bonus:  Nein
 
-###10th Place: Team Molon Labe (ML) 
 
-* 830 Team Points 
-* Finished in 22 hours, 12 minutes
 
-###11th Place: Team Wildcard 
+![STX Daybreaker - Sons of Liberty]({{ site.url }}/images/articles/SoL2.jpg)
 
-* 820 Points 
-* Finished in 22 hours 23 minutes
 
-###Team Zombie Response 
+##3rd Survivor - Callsign: Sons of Liberty 
 
-* 465 Points 
-* Did not finish
+###Total Points:  3080
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0NgEHdsDZVA0jcNaoxUtfHP" frameborder="0" allowfullscreen></iframe>
+* Defensive Engagements:  880 Points
+* Responses:  1700 Points
+* Golden Bricks:  0 Points
+* Bonus Points:  100 Points - Loss of Time
+* Karma Points:  0 Points
+* Scavenger Hunt:  400 Points
+* Deutsch Bonus:  Nein
 
-#STIII:  Winterborn Survivors:
+ 
 
-###1st Survivors:  Team Terra Victor
+![STX Daybreaker - BigBird]({{ site.url }}/images/articles/bigbird2.jpg) 
 
-* 1425 Points
-* Team Members: John Trout and Gene Locke
+##4th Survivor - Callsign: BigBird 
 
-###2nd Survivors:  Team CRG
+###Total Points:  1930
 
-* 1230 Points
-* Team Members:  Guy Schmidt and Nick Thompson
+* Defensive Engagements:  530 Points
+* Responses:  800 Points
+* Golden Bricks:  500 Points
+* Bonus Points:  0
+* Karma Points:  0 Points
+* Scavenger Hunt:  100 Points
+* Deutsch Bonus:  Nein
 
-###3rd Survivors:  Team Wolverines
 
-* 730 Points
-* Team Members:  Joseph Lange III and Gavin McNew
-
-###4th Survivors:  Team Dirt Divers
-
-* 600 Points
-* Team Members:  Roger Graham and Alan Apodaca
-
-###5th Survivors:  Team Nightstalkers
-
-* 540 Points
-* Team Members:  Nicole Ruby and Sandy Leder
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0MTUquylYzA1grTTEyJqgCg" frameborder="0" allowfullscreen></iframe>
-
-#STIV: Daybreaker Survivors
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0O8YygK3ffOURRp1W1NcLZM" frameborder="0" allowfullscreen></iframe>
-
-#STV: Sundowner Survivors:
-
-###1st Survivors:  Team Kifaru 
-
-* 8550 points 
-*Note: Team Kifaru were the only team to cross the finish line in the STV: Sundowner.
-
-###2nd Survivors:  Team Venom Chasers 
-
-* 5100 points
-
-###3rd Survivors:  Team Sierra Company 
-
-* 4650 points
-
-###5th Survivors:  Team CAA 
-
-* 3400 points
-
-###4th Survivors:  Team CRG 
-
-* 4150 points
-
-###6th Survivors:  Team Nyx 
-
-* 3200 points
-
-###7th Survivors:  Team Ruby Red 
-
-* 2850 points 
-* Note:  Team Ruby Red recovered the Golden Basket approximately 23 hours into the Trial
-
-###8th Survivors:  Team Valhalla 
-
-* 1700 points
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0N81EJ___1GkL7vThlPWVeT" frameborder="0" allowfullscreen></iframe>
-
-#STVII: Daybreaker Survivors:
-
-The race began with three (3) 24 Hour Team Competitors, one (1) Solo 48 Hour Competitor and eight (8) 48 Hour Team Competitors.
-
-##24 Hour STVII: Daybreaker Results:
-
-###1st Survivors: Team SolTech
-
-* Total Points: 2330
-* Total Distance Moved: 31.87 miles
-
-###2nd Survivors: Team Dr. Robert Neville
-
-* Total Points: 1270
-* Total Distance Moved: 20.38 miles
-
-##48 Hour STVII: Daybreaker Results:
-
-###1st Survivors: Team Kifaru
-
-* Total Points: 6480
-* Total Distance Moved: 76.10
-
-###2nd Survivors: Team Grey Tactical
-
-* Total Points: 3770
-* Total Distance Moved: 41.68
-
-###3rd Survivors: Team 40.40.
-
-* Total Points: 3610
-* Total Distance Moved: 48.08 miles
-
-###4th Survivors: Team Terra Victor
-
-* Total Points: 3030
-* Total Distance Moved: 61.07 miles
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVxvjseUtV0Nxt53uc-FXIgm7u62Gsil_" frameborder="0" allowfullscreen></iframe>
-
-#STVIII: Sundowner Survivors:
-
-##Final Standings from the Survival Trial - STVIII: Sundowner 24 Hour Team:
-
-###First Survivors: Team Hornady
-
-* Team Members: Jayden Quinlan, Spencer Burch
-* Total Points: 3510
-* Total Distance Moved: 38.35 Miles
-
-###Second Survivors: Team Slow Motion
-
-* Team Members: Jay Graham, Clint Briggs
-* Total Points: 2600
-* Total Distance Moved: 39.14 Miles
-
-###Third Survivors: Rucking Awesome
-
-* Total Points: 830
-* Total Distance Moved: 28.5 Miles
-
-##Final Standings from the Survival Trial - STVIII: Sundowner 24 Hour Solo:
-
-###First Survivor: Callsign: Rocketbob
-
-* Name: Robert "Bob" Suttner
-* Total Points: 1570
-* Total Distance Moved: 41.43 Miles
-
-##Final Standings from the Survival Trial - STVIII: Sundowner 48 Hour Solo:
-
-###First Survivor: Callsign: Trigger-1
-
-* Name: Mario Madero
-* Total Points: 4370
-* Total Distance Moved: 50.12 Miles
-
-###Second Survivor: Callsign: Possom Fat
-
-* Total Points: 1790
-* Total Distance Moved: 55.89 Miles
-
-##Final Standings from the Survival Trial - STVIII: Sundowner 72 Hour Team:
-
-###First Survivors: Team CRG
-
-* Team Members: Guy Schmidt, Rob Lininger
-* Total Points: 5860
-* Total Distance Moved: 76.94 Miles
-
-##Final Standings from the Survival Trial - STVIII: Sundowner 72 Hour Solo:
-
-###First Survivor: Callsign: Zeke
-
-* Name: Scott Reid
-* Total Points: 3020
-* Total Distance Moved: 69.50 Miles
-
+#Great job to all the STX: Daybreaker Competitors! 
