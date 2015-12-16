@@ -13,19 +13,29 @@ comments:  true
 
 
 #STI: “By Moonlight” Survivors:
-1st Survivors:  Team Chupacabra
+
+###1st Survivors:  Team Chupacabra
+
 •	1220 Points
 •	Team Members:  Brett Eisenberg and Bryan Yeung
-2nd Survivors:  Team Wanders
+
+###2nd Survivors:  Team Wanders
+
 •	1130 Points
 •	Team Members:  Tom Lewis and Doug Looney
-3rd Survivors:  Team Hornady
+
+###3rd Survivors:  Team Hornady
+
 •	1120 Points
 •	Team Members:  Jayden Quinlan and Riley McElroy
-4th Survivors:  Team No Worries
+
+###4th Survivors:  Team No Worries
+
 •	850 Points
 •	Team Members:  Jeremiah Ward and 
-5th Survivors:  Team Lost Boys
+
+###5th Survivors:  Team Lost Boys
+
 •	670 Points
 •	Team Members:  Rich Colonel and John Ness
 
