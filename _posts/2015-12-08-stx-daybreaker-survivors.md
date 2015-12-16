@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Survivors
+title:  STX Daybreaker Survivors
 date:   2015-12-08 14:36
 image:  images/articles/daybreakerslider.png
-excerpt:  Survivors from Trials past
+excerpt:  Survivors from May 2015 STX Daybreaker
 
 categories: about
 tags: survival trial, about, training
