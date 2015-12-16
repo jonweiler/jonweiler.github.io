@@ -11,14 +11,17 @@ author: Jon Weiler
 comments:  true
 ---
 
+#2015 STX: Daybreaker Map 
+
+<iframe height="600px" width="960px" src="http://ec2-52-10-92-147.us-west-2.compute.amazonaws.com/event/st-daybreaker-2015"></iframe>
 
 
-<h1><center>48 Hour Race: Team</center></h1>
+#48 Hour Race: Team
 
-<center><img src="/images/articles/BooneandCrockett2.jpg" alt="bc" width="600" height="400" border="10"/></center>
+![Boone and Crockett]({{ site.url }}/images/articles/BooneandCrockett2.jpg)
 
 
-<h2><center>1st Survivor - Team Boone and Crockett</center></h2>
+##1st Survivor - Team Boone and Crockett
 
 ###Total Points:  6060
 
@@ -32,12 +35,13 @@ comments:  true
 
 
 
-<h1><center>48 Hour Race: Solo</center></h1>
+#48 Hour Race: Solo 
 
-<center><img src="/images/articles/Rocketbob22.jpg" alt="rb" width="600" height="400" border="10"/></center>
+![STX Daybreaker - Rocketbob]({{ site.url }}/images/articles/Rocketbob22.jpg)
+ 
 
 
-<h2><center>1st Survivor - Callsign: Rocketbob</center></h2>
+##1st Survivor - Callsign: Rocketbob 
 
 ###Total Points:  4920
 
@@ -51,12 +55,13 @@ comments:  true
 
 
 
-<h1><center>24 Hour Race: Solo</center></h1>
+#24 Hour Race: Solo 
 
-<center><img src="/images/articles/Dteam2.jpg" alt="dt" width="600" height="400" border="10"/></center>
+![STX Daybreaker - DTeam]({{ site.url }}/images/articles/Dteam2.jpg)
+ 
 
 
-<h2><center>1st Survivor - Callsign: D-Team</center></h2>
+##1st Survivor - Callsign: D-Team 
 
 ###Total Points:  5785
 
@@ -70,9 +75,9 @@ comments:  true
 
 
 
-<center><img src="/images/articles/Nack2.jpg" alt="nack" width="600" height="400" border="10"/></center>
+![STX Daybreaker - NACK]({{ site.url }}/images/articles/Nack2.jpg) 
 
-<h2><center>2nd Survivor - Callsign: NACK</center></h2>
+##2nd Survivor - Callsign: NACK 
 
 ###Total Points:  4710
 
@@ -84,13 +89,12 @@ comments:  true
 * Scavenger Hunt:  450 Points
 * Deutsch Bonus:  Nein
 
-<center>__________________________________________________________________________________________________</center>
 
 
-<center><img src="/images/articles/SoL2.jpg" alt="sol" width="400" height="600" border="10"/></center>
+![STX Daybreaker - Sons of Liberty]({{ site.url }}/images/articles/SoL2.jpg)
 
 
-<h2><center>3rd Survivor - Callsign: Sons of Liberty</center></h2>
+##3rd Survivor - Callsign: Sons of Liberty 
 
 ###Total Points:  3080
 
@@ -102,13 +106,11 @@ comments:  true
 * Scavenger Hunt:  400 Points
 * Deutsch Bonus:  Nein
 
-<center>__________________________________________________________________________________________________</center>
+ 
 
+![STX Daybreaker - BigBird]({{ site.url }}/images/articles/bigbird2.jpg) 
 
-<center><img src="/images/articles/bigbird2.jpg" alt="bigbird" width="600" height="400" border="10"/></center>
-
-
-<h2><center>4th Survivor - Callsign: BigBird</center></h2>
+##4th Survivor - Callsign: BigBird 
 
 ###Total Points:  1930
 
