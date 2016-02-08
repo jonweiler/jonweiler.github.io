@@ -21,11 +21,11 @@ A map is a geographic representation of a flat plane as seen from above.  Blue i
  
 ![Land Nav – 1:50000]({{ site.url }}/images/articles/landnav/1.jpg)
 
-We provide 1:50,000 scale maps in the Survival Trial Arenas.  The scale 1:50,000 depicts the area on the map at 1/50,000 of their actual size.  This keeps detail of topography and the grids are broken down into 1000km increments.  This way we can keep the ST Arena to one or two maps, depending on the Trial.
+We provide 1:50,000 scale maps in the Survival Trial Arenas.  The scale 1:50,000 depicts the area on the map at 1/50,000 of their actual size.  This keeps detail of topography and the grids are broken down into 1000m increments.  This way we can keep the ST Arena to one or two maps.
 
 ## Plotting Points
 
-You will receive a list of coordinates of specific locations in the Survival Trial Arena.  The coordinates will be in a 10 digit format, bringing you within 1 meter of the specified location.  You should have a military map protractor in your kit; if you do not, then navigating in the Survival Trial Arena will be very difficult.  Once your safety brief is complete and the Trial is underway, you will then plot all of your points, and you should plot every single one.  This will help you in determining the layout and the route(s) you can take in the ST Arena and in formulating a plan of attack in the ST Arena.
+You will receive a list of coordinates of specific locations in the Survival Trial Arena.  The coordinates will be in a 10 digit format, bringing you within 1 meter of the specified location.  You should have a military map protractor in your kit; if you do not, then navigating in the Survival Trial Arena will be very difficult.  Once your safety brief is complete and the Trial is underway, you will then plot all of your points - and you should plot every single one.  This will help you in determining the layout of the Arena, the route(s) you can and in formulating a plan of attack in the ST Arena.
 
 ![Land Nav – Military Protractor]({{ site.url }}/images/articles/landnav/8.jpg)
 
@@ -33,9 +33,9 @@ You will receive a list of coordinates of specific locations in the Survival Tri
 
 Let’s break down the coordinates first.  
 
-* 13S:  Grid Zone Designator:  The large area that the map is showing.  The entire world is broken down into Grid Zone Designators.
+* 13S:  Grid Zone Designator:  The large area that the map is showing.  The world is broken down into Grid Zone Designators.
 
-* EA:  100km Grid Square Identification:  The area of the Grid Zone Designator the map is part of.
+* EA:  100km Grid Square Identification: a smaller area of the Grid Zone Designator.
 
 * 42:  North/South running grid line
 
@@ -47,9 +47,9 @@ To begin, move the protractor along the lower grid line numbers until you reach 
  
 ![Land Nav – North/South Grid Line]({{ site.url }}/images/articles/landnav/2.jpg)
 
-In this case, find grid line 42 and place the protractor on the lower left hand corner of the grid square.  
+Find grid line 42 and place the protractor on the lower left hand corner of the grid square.  
 
-Then align the right hand numbers (bringing you up on the map) until you reach the lower left hand corner of the 1000 meter grid square, in this case grid line 67.
+Then align the right hand numbers (bringing you up on the map) until you reach the lower left hand corner of the 1000 meter grid squarej of grid line 67.
 
 ![Land Nav – East/West Grid Line]({{ site.url }}/images/articles/landnav/4.jpg)
 
@@ -59,7 +59,7 @@ Identify the East/West hash lines where they read 552.  Place a mark on your map
 
 ![Land Nav – ID N/S E/S ]({{ site.url }}/images/articles/landnav/5.jpg)
 
-You have just plotted point: 13S EA 42961 67552.  You now understand how to breakdown a Grid Zone Designator and why it is used.
+You have just plotted point: 13S EA 42961 67552 - and you now understand how to breakdown a 10 Digit Grid Coordinate and why it is used.
 
 ![Land Nav – Point Plotted]({{ site.url }}/images/articles/landnav/7.jpg)
 
