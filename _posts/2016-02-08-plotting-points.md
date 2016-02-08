@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Plot a Point
+title:  Navigation - Plot a Point
 date:   2016-02-08  
 image:  images/@stock/9.jpg
 excerpt:  Undestanding a 10 Digit Grid Coordinate 
