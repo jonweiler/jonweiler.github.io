@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Skill Building: Land Navigation
-date:   2016-02-06 14:36
+date:   2016-02-08 14:36
 image:  images/articles/landnav/stfnt (6).JPG)
 excerpt:  Plotting a Point on a Map
 
@@ -33,13 +33,13 @@ You will receive a list of coordinates of specific locations in the Survival Tri
 
 Let’s break down the coordinates first.  
 
-*13S:  Grid Zone Designator:  The large area that the map is showing.  The entire world is broken down into Grid Zone Designators.
+* 13S:  Grid Zone Designator:  The large area that the map is showing.  The entire world is broken down into Grid Zone Designators.
 
-*EA:  100km Grid Square Identification:  The area of the Grid Zone Designator the map is part of.
+* EA:  100km Grid Square Identification:  The area of the Grid Zone Designator the map is part of.
 
-*42:  North/South running grid line
+* 42:  North/South running grid line
 
-*67:  East/West running grid line
+* 67:  East/West running grid line
 
 ![Land Nav – 1000 Meter Grid]({{ site.url }}/images/articles/landnav/3.jpg)
 
