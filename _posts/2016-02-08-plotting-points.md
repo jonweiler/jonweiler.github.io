@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  Skill Building: Land Navigation 
-date:   2016-02-06 10:22:12
+title:  Skill Building: Land Navigation
+date:   2015-11-02 14:36
 image:  images/articles/landnav/stfnt (6).JPG)
-excerpt:  Plotting a Point from a 10 Digit MGRS Coordinate....
+excerpt:  Plotting a Point on a Map
 
-categories: st arena
-tags: expect, survival tria, arena, 2016, Land Navigation, Plotting Points
+categories: about
+tags: survival trial, about, training
 author: Jon Weiler
-comments: true
+comments:  true
 ---
 
 ![Land Nav - Plotting Points]({{ site.url }}/images/articles/landnav/stfnt (6).JPG)
