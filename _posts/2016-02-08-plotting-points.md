@@ -3,7 +3,7 @@ layout: post
 title:  Navigation: Plot a Point 
 date:   2016-02-08  
 image:  images/@stock/9.jpg
-excerpt:  Plotting Points with a 10 Digit Grid Coordinate 
+excerpt:  Undestanding a 10 Digit Grid Coordinate 
 
 categories: about
 tags: survival trial, about, training, 
