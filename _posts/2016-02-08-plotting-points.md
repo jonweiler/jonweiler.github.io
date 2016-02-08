@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Skill Building: Land Navigation
+title:  Skill Building: Navigation
 date:   2016-02-08 14:36
 image:  images/articles/landnav/9.jpg)
 excerpt:  Plotting a Point on a Map
@@ -64,7 +64,7 @@ You have just plotted point: 13S EA 42961 67552.  You now understand how to brea
 ![Land Nav – Point Plotted]({{ site.url }}/images/articles/landnav/7.jpg)
 
 
-About the Author:
+## About the Author:
 
 [Jon Weiler](http://jonweiler.com/) is the creator and coordinator of Survival Trial.  Beginning in 2011 with a concept of blending an Adventure Race with real world Survival Situations, Jon has forged the Survival Trial as the Ultimate Test.  
 
