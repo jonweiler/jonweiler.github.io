@@ -5,8 +5,8 @@ date:   2016-02-06 14:36
 image:  images/articles/landnav/stfnt (6).JPG)
 excerpt:  Plotting a Point on a Map
 
-categories: about
-tags: survival trial, about, training
+categories: ST Arena
+tags: survival trial, about, training, land navigation, 
 author: Jon Weiler
 comments:  true
 ---
@@ -15,7 +15,7 @@ We work closely with technology in Survival Trial with the GPS Tracking and grid
 
 Knowing how to read a map, plot points and plot a route are skills worth having.  Land Navigation is the fundamental key to success in the Survival Trial Arenas.  This post highlights what you need to know to successfully plot a 10 digit MGRS Coordinate that will identify a location on a map to within 1 meter. 
 
-##What is a map?
+## What is a map?
 
 A map is a geographic representation of a flat plane as seen from above.  Blue is water; green is vegetation, brown is relief features (such as contour lines), red is populated areas, roads etc…  The contour lines are imaginary lines on the ground that connect equal elevation.  The Contour Lines depict the high and low ground on a map.  The closer they are together, the steeper the walk, the further apart the less grade one will encounter.  This is very important when plotting routes and identifying potential obstacles along the way, especially at night. 
  
@@ -23,13 +23,13 @@ A map is a geographic representation of a flat plane as seen from above.  Blue i
 
 We provide 1:50,000 scale maps in the Survival Trial Arenas.  The scale 1:50,000 depicts the area on the map at 1/50,000 of their actual size.  This keeps detail of topography and the grids are broken down into 1000km increments.  This way we can keep the ST Arena to one or two maps, depending on the Trial.
 
-##Plotting Points
+## Plotting Points
 
 You will receive a list of coordinates of specific locations in the Survival Trial Arena.  The coordinates will be in a 10 digit format, bringing you within 1 meter of the specified location.  You should have a military map protractor in your kit; if you do not, then navigating in the Survival Trial Arena will be very difficult.  Once your safety brief is complete and the Trial is underway, you will then plot all of your points, and you should plot every single one.  This will help you in determining the layout and the route(s) you can take in the ST Arena and in formulating a plan of attack in the ST Arena.
 
 ![Land Nav – Military Protractor]({{ site.url }}/images/articles/landnav/8.jpg)
 
-###How to plot the point:  13S EA 42961 67552  
+### How to plot the point:  13S EA 42961 67552  
 
 Let’s break down the coordinates first.  
 
