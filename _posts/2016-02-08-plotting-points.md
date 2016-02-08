@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Skill Building: Navigation
-date:   2016-02-08 14:36
-image:  images/articles/landnav/9.jpg)
-excerpt:  Plotting a Point on a Map
+title:  About Survival Trial
+date:   2015-11-02 14:36
+image:  images/@stock/blog-8.jpg
+excerpt:  Learn more about Survival Trial 
 
 categories: about
-tags: survival trial, about, training, land navigation, 
+tags: survival trial, about, training
 author: Jon Weiler
 comments:  true
 ---
