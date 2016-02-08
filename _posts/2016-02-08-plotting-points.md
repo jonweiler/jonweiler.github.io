@@ -5,7 +5,7 @@ date:   2016-02-08 14:36
 image:  images/articles/landnav/9.jpg)
 excerpt:  Plotting a Point on a Map
 
-categories: ST Arena
+categories: about
 tags: survival trial, about, training, land navigation, 
 author: Jon Weiler
 comments:  true
