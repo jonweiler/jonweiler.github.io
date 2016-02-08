@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  About Survival Trial
+title:  Navigation: Plot a Point on a Map
 date:   2016-02-08  
 image:  images/@stock/9.jpg
-excerpt:  Learn more about Survival Trial 
+excerpt:  Plotting Points with a 10 Digit Grid Coordinate 
 
 categories: about
-tags: survival trial, about, training
+tags: survival trial, about, training, 
 author: Jon Weiler
 comments:  true
 ---
