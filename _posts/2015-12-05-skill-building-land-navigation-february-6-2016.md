@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Skill Building:  Land Navigation - February 6, 2015
+title:  Skill Building: Land Navigation 
 date:   2016-02-06 10:22:12
 image:  images/articles/landnav/stfnt (6).JPG)
 excerpt:  Plotting a Point from a 10 Digit MGRS Coordinate....
