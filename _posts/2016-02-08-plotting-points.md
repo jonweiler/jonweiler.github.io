@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Skill Building: Land Navigation
-date:   2015-11-02 14:36
+date:   2016-02-06 14:36
 image:  images/articles/landnav/stfnt (6).JPG)
 excerpt:  Plotting a Point on a Map
 
@@ -10,8 +10,6 @@ tags: survival trial, about, training
 author: Jon Weiler
 comments:  true
 ---
-
-![Land Nav - Plotting Points]({{ site.url }}/images/articles/landnav/stfnt (6).JPG)
 
 We work closely with technology in Survival Trial with the GPS Tracking and grid location plotting.  We integrated the tracking software back in 2013 and placed the map online so everyone back home could follow the Competitors through the Arenas, but at some point in just about every Survival Trial the map will go down.  I have never fully trusted anything that requires batteries and a connection with something outside of my position.  I have been issued GPS equipment in the military that ended up staying in the rear because it would not work.  My map, compass and protractor were all that I took because I was confident in my ability to use them.  
 
