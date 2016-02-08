@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  About Survival Trial
-date:   2015-11-02 14:36
-image:  images/@stock/blog-8.jpg
+date:   2016-02-08 14:36
+image:  images/@stock/9.jpg
 excerpt:  Learn more about Survival Trial 
 
 categories: about
