@@ -2,7 +2,7 @@
 layout: post
 title:  Skill Building: Land Navigation
 date:   2016-02-08 14:36
-image:  images/articles/landnav/stfnt (6).JPG)
+image:  images/articles/landnav/9.jpg)
 excerpt:  Plotting a Point on a Map
 
 categories: ST Arena
