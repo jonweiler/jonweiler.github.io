@@ -12,9 +12,9 @@ author: Jon Weiler
 
 
 
-#Required Items:
+# Required Items:
 
-###In the Survival Trial Arena, we ask Competitors to have certain base items for both safety and success:
+### In the Survival Trial Arena, we ask Competitors to have certain base items for both safety and success:
 
 <li>Pack capable of carrying 80lbs minimum x 1 per person</li>
 <li>Hydration system @ 100oz. water minimum x 1 per person</li>
@@ -26,7 +26,7 @@ author: Jon Weiler
 <li>Chemical Lights  </li>
 <li>Lensatic Compass </li>
 
-###Required only if you are participating in the Defensive Shooting Scenarios
+### Required only if you are participating in the Defensive Shooting Scenarios
 
 <li>Hearing Protection</li>
 <li>Eye Protection</li>
@@ -40,19 +40,19 @@ author: Jon Weiler
 
 <center>___________________________________________________________</center>
 
-####We want the Trials to be open to anyone who wants the Ultimate Test.  The below equipment is Optional in the Survival Trial Arena.  
+#### We want the Trials to be open to anyone who wants the Ultimate Test.  The below equipment is Optional in the Survival Trial Arena.  
 
-####If you are not into firearms, you do not have to negotiate any of the firearm scenarios.  You do not have to provide a firearm to compete.  We will have Stage Guns available for each Shooting Scenario.  
+#### If you are not into firearms, you do not have to negotiate any of the firearm scenarios.  You do not have to provide a firearm to compete.  We will have Stage Guns available for each Shooting Scenario.  
 
-####You will be responsible for providing/carrying your ammunition if you want to negotiate the Shooting Scenarios, along with hearing and eye protection.  If you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course prior to each Survival Trial.
+#### You will be responsible for providing/carrying your ammunition if you want to negotiate the Shooting Scenarios, along with hearing and eye protection.  If you do utilize the Stage Firearms, you will be required to attend the ST Firearms Safety Course prior to each Survival Trial.
 
-####Note: Each ST Arena is designed to allow every Competitor the opportunity to collect the maximum amount of points.  We work diligently to ensure that no one Competitor has an advantage over another.  It all comes down to drive and strategy. 
+#### Note: Each ST Arena is designed to allow every Competitor the opportunity to collect the maximum amount of points.  We work diligently to ensure that no one Competitor has an advantage over another.  It all comes down to drive and strategy. 
 
 <center>___________________________________________________________</center>
 
-#Suggested/Optional:
+# Suggested/Optional:
 
-##Firearms:
+## Firearms:
 
 <li>Shotgun x 1 per person</li>
 <li>Semi-Automatic Rifle x 1 per person</li>
@@ -63,11 +63,11 @@ author: Jon Weiler
  -Semi-Automatic Pistol Holster x 1 per person
 
 
-##Gear:
+## Gear:
 
-####Again, the items below are optional but suggested for success.  This is not the extent of items that will help you either, you can bring more items but whatever you pack in, you will pack out.  
+#### Again, the items below are optional but suggested for success.  This is not the extent of items that will help you either, you can bring more items but whatever you pack in, you will pack out.  
 
-####Choose wisely!  Our brains are the most important piece of equipment in a Survival situation, but it does help to have some gear with you.
+#### Choose wisely!  Our brains are the most important piece of equipment in a Survival situation, but it does help to have some gear with you.
 
 <li>6 foot rope</li>  
 <li>Carabiner</li>  
@@ -80,9 +80,9 @@ author: Jon Weiler
 
 <center>___________________________________________________________</center>
 
-##Prohibited Items:
+## Prohibited Items:
 
-####Possession of the below items will result in expulsion from the Survival Trial Arena
+#### Possession of the below items will result in expulsion from the Survival Trial Arena
 
 
 <li>Night Vision</li>
