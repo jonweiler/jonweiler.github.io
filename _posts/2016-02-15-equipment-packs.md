@@ -41,7 +41,7 @@ If I were forced on foot to move in an area that may or may not be friendly, wha
 
 There are a number of backpacks on the market that are designed to integrally house and carry items.  Most have a main pocket with several inner/outer pockets to put things in.  Some have scabbards for firearms; most lack an internal frame.  There are some packs that have rods and plastic inserts to add rigidity, but are mainly just large bags with several pockets.  I own one: an Eberlestock Gunslinger 2 pack.
   
-![Backpack]({{ site.url }}/images/3.jpg)
+![Backpack]({{ site.url }}/images/articles/pack/3.jpg)
   
   
 I used this pack in the 2011 Spartan Death Race in Vermont and fought it the entire 45 hours.  It is not a bad pack, it was the wrong choice for the event.  I carried a log that was saturated with water for the entire time and because I lacked rigidity in my pack, I had no way to secure it.  It flopped side to side the entire time and caused more work for me.  It was a good test of patience and a good lesson for the future.
@@ -50,17 +50,17 @@ I used this pack in the 2011 Spartan Death Race in Vermont and fought it the ent
 
 A Rucksack incorporates the pack and an external frame together, with the pack attached to the frame.  The military ALICE (All-purpose, Lightweight, Individual Carrying Equipment) Pack is a very good example of a versatile rucksack.  Understanding that all military equipment is provided by the lowest bidder (for the Infantry anyways…), the ALICE Pack offers simplicity and strength.  I have personally dropped them out of trucks and helicopters, jumped with them out of fixed wing aircraft and always relied on them to hold together with me on every mission.  When invading Iraq in 2003, I carried everything that I needed to survive in my ALICE Pace and lived out of it for several months before the supply chain caught up with us.
 
-![Rucksack]({{ site.url }}/images/alicepack.jpg)
+![Rucksack]({{ site.url }}/images/articles/pack/alicepack.jpg)
 
 I have several years of experience with this type of pack in some very austere conditions.  I know that I can take a pack like this into any situation, carry well over 120lbs of equipment and survive.  I do not need extra pockets to carry more things.  I need to carry what I need.
 
 ### Pack Frame
 
-![Pack Frame]({{ site.url }}/images/1.jpg)
+![Pack Frame]({{ site.url }}/images/articles/pack/1.jpg)
 
 The Pack Frame is just a sturdy frame with chest straps, with or without a folding shelf in the back, designed to carry weight.  The interesting thing about this setup is how incredibly versatile it can be.  When hunting, this is a very good option in carrying game out of the field back to basecamp.  In trekking, one can carry a series of bags lashed to the frame to increase ease of access for equipment.  This is what I suggest for the Survival Trial Arena.
 
-![Pack Frame]({{ site.url }}/images/5.jpg)
+![Pack Frame]({{ site.url }}/images/articles/pack/5.jpg)
 
 
 Pack Frames are usually aluminum, but I have seen steel tubing welded together.  The folding shelf comes in handy in supporting odd-shaped items or getting the injured to help.  My current set up is a pack frame with bungee cords and ratchet straps.  Bags can be anything, from garbage bags to gym bags, whatever supports your survival goal.  Overall, the pack frame does not limit what can be carried.  
