@@ -2,7 +2,7 @@
 layout: post
 title:  Survival Trial News - January 4, 2016
 date:   2016-01-15  
-image:  images/@stock/amerst.png
+image:  images/@stock/stnews.png
 excerpt:  Vol 1 - Issue 3. 
 
 categories: about
@@ -18,8 +18,8 @@ comments:  true
 ![Shotgun Square Bombing]({{ site.url }}/images/articles/news/stvigil.jpg)
 
 ## Cleanup after the News Years, Shotgun Square Bombing.
-#### January 4th, 2016
-#### Survival Trial Arena News
+### January 4th, 2016
+### Survival Trial Arena News
 
 Cleanup crews are finishing up with the destruction that Thursday night's attack on Shotgun Square caused.  31 people lost their lives with 58 wounded in the attack. 
 
@@ -31,8 +31,8 @@ The New Arena Chief of Police made a statement on Friday about extending the Sta
 ![Dollar Plummet]({{ site.url }}/images/articles/news/ststock.jpg)
 
 ## US Dollar Value Continues to Plummet
-#### January 4, 2016
-#### Survival Trial Arena News
+### January 4, 2016
+### Survival Trial Arena News
 
 The US Dollar continues its decline over the past weeks, falling far below its closest competitor, the Chinese Yuan who has seen a drastic uptake in value over the past few weeks.  Rumblings about a new global reserve currency are starting to take shape.  In International Markets.
 
@@ -43,8 +43,8 @@ The US Dollar continues its decline over the past weeks, falling far below its c
 ![Riot]({{ site.url }}/images/articles/news/striot.jpg)
 
 ## Refugee Crises in small Iowa Town
-#### January 4, 2016
-#### Survival Trial Arena News
+### January 4, 2016
+### Survival Trial Arena News
 
 Rioting broke out in the small town of LeRourke, IA as Syrian Refugees clashed with local townspeople over the growing animosity between the refugee camps and local businesses.
 
