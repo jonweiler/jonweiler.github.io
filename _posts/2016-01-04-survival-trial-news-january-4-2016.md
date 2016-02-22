@@ -13,15 +13,21 @@ comments:  true
 
 ![America's Survival Trial]({{ site.url }}/images/articles/news/amerst.png)
 
-> The reports in this newsletter are fictional and intended to set the stage around the scenarios and situations in the 2016 Survival Trial Arenas.  Every Survival Trial incorporates news articles into the Defensive and Survival Situations to help solidify the relevancy of the Ultimate Test.  Training for Survival Trial should be Training for Everyday.  This means our ST Arenas must reflect the potentials in our everyday lives... 
+# Survival Trial - Choose Your Own Adventure!
+
+**Survival Trial is a survival-based adventure race that incorporates Orienteering, Trekking, Survival Skills and Defensive Shooting Situations.  Survival Trial is not a linear race, meaning that the Competitors have the freedom to choose what to do, where to go and in some cases, how to get there.**
+
+**Competitors will also take part in a story-line when negotiating the Daybreaker and Sundowner Arenas.  Choosing Your Own Adventure is a key part of the Survival Trial experience.**
+
+**The reports in this newsletter are fictional and intended to set the stage around the scenarios and situations in the 2016 Survival Trial Arenas.  Every Survival Trial incorporates news articles into the Defensive and Survival Situations to help solidify the relevancy of the Ultimate Test.  Training for Survival Trial should be Training for Everyday.  This means our ST Arenas must reflect the potentials in our everyday lives...** 
 
 ![Shotgun Square Bombing]({{ site.url }}/images/articles/news/stvigil.jpg)
 
 ## Cleanup after the News Years, Shotgun Square Bombing.
 
-### January 4th, 2016
+**January 4th, 2016**
 
-### Survival Trial Arena News
+**Survival Trial Arena News**
 
 
 Cleanup crews are finishing up with the destruction that Thursday night's attack on Shotgun Square caused.  31 people lost their lives with 58 wounded in the attack. 
@@ -35,9 +41,9 @@ The New Arena Chief of Police made a statement on Friday about extending the Sta
 
 ## US Dollar Value Continues to Plummet
 
-### January 4, 2016
+**January 4, 2016**
 
-### Survival Trial Arena News
+**Survival Trial Arena News**
 
 The US Dollar continues its decline over the past weeks, falling far below its closest competitor, the Chinese Yuan who has seen a drastic uptake in value over the past few weeks.  Rumblings about a new global reserve currency are starting to take shape.  In International Markets.
 
@@ -49,9 +55,9 @@ The US Dollar continues its decline over the past weeks, falling far below its c
 
 ## Refugee Crises in small Iowa Town
 
-### January 4, 2016
+**January 4, 2016**
 
-### Survival Trial Arena News
+**Survival Trial Arena News**
 
 Rioting broke out in the small town of LeRourke, IA as Syrian Refugees clashed with local townspeople over the growing animosity between the refugee camps and local businesses.
 

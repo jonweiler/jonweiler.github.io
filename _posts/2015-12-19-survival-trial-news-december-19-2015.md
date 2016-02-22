@@ -13,13 +13,21 @@ comments:  true
 
 ![America's Survival Trial]({{ site.url }}/images/articles/amerst.png)
 
-> The reports in this newsletter are fictional and intended to set the stage around the scenarios and situations in the 2016 Survival Trial Arenas.  Every Survival Trial incorporates news articles into the Defensive and Survival Situations to help solidify the relevancy of the Ultimate Test.  Training for Survival Trial should be Training for Everyday.  This means our ST Arenas must reflect the potentials in our everyday lives... 
+# Survival Trial - Choose Your Own Adventure!
+
+**Survival Trial is a survival-based adventure race that incorporates Orienteering, Trekking, Survival Skills and Defensive Shooting Situations.  Survival Trial is not a linear race, meaning that the Competitors have the freedom to choose what to do, where to go and in some cases, how to get there.**
+
+**Competitors will also take part in a story-line when negotiating the Daybreaker and Sundowner Arenas.  Choosing Your Own Adventure is a key part of the Survival Trial experience.**
+
+**The reports in this newsletter are fictional and intended to set the stage around the scenarios and situations in the 2016 Survival Trial Arenas.  Every Survival Trial incorporates news articles into the Defensive and Survival Situations to help solidify the relevancy of the Ultimate Test.  Training for Survival Trial should be Training for Everyday.  This means our ST Arenas must reflect the potentials in our everyday lives...** 
 
 ![ST Mall]({{ site.url }}/images/articles/news/stmall.jpg)
 
 ## Terrorist group accepts responsibility for Arena Mall Attack.
-### December 19, 2015
-### Survival Trial Arena News
+
+**December 19, 2015**
+
+**Survival Trial Arena News**
 
 Four gunmen entering the Arena Mall, armed with semi-automatic rifles and opened fire on a crowd of shoppers in the early morning hours of Tuesday, December 15, 2015.  A pre-Christmas sale at the Arena Mall stores drew record crowds…
 
@@ -29,8 +37,11 @@ Four gunmen entering the Arena Mall, armed with semi-automatic rifles and opened
 ![Dollar Plummet]({{ site.url }}/images/articles/news/stchemattack.jpg)
 
 ## Chemical Attack Thwarted at the Arena Metro 
-### December 19, 2015
-### Survival Trial Arena News
+
+**December 19, 2015**
+
+**Survival Trial Arena News**
+
 
 Working off of an anonymous tip, law enforcement officers foiled a potential chemical attack at the Arena Metro on Sunday.  Security screening has been increased during this Christmas holiday....
 
@@ -40,8 +51,10 @@ Working off of an anonymous tip, law enforcement officers foiled a potential che
 ![ST School Threat]({{ site.url }}/images/articles/news/stschoolthreat.jpg)
 
 ## Fear grips Arena Schools...
-### December 19, 2015
-### Survival Trial Arena News
+
+**December 19, 2015**
+
+**Survival Trial Arena News**
 
 The "credible" terror threat that cleared out over 900 hundred students in the Arena Public School District on Tuesday appears to be a hoax perpetrated by students who were "fed up with the school lunch program..."
 
