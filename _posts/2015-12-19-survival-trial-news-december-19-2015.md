@@ -11,7 +11,7 @@ author: Jon Weiler
 comments:  true
 ---
 
-![America's Survival Trial]({{ site.url }}/images/articles/news/amerst.png)
+![America's Survival Trial]({{ site.url }}/images/articles/amerst.png)
 
 > The reports in this newsletter are fictional and intended to set the stage around the scenarios and situations in the 2016 Survival Trial Arenas.  Every Survival Trial incorporates news articles into the Defensive and Survival Situations to help solidify the relevancy of the Ultimate Test.  Training for Survival Trial should be Training for Everyday.  This means our ST Arenas must reflect the potentials in our everyday lives... 
 
@@ -37,7 +37,7 @@ Working off of an anonymous tip, law enforcement officers foiled a potential che
 [Click here for the article...](http://www.dailymail.co.uk/news/article-3357320/Two-Syrian-men-arrested-Geneva-amid-fear-plotting-chemical-bomb-terror-attack-Swiss-city.html)
 
 
-![Riot]({{ site.url }}/images/articles/news/schoolthreat.jpg)
+![ST School Threat]({{ site.url }}/images/articles/news/stschoolthreat.jpg)
 
 ## Fear grips Arena Schools...
 ### December 19, 2015
