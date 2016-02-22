@@ -2,7 +2,7 @@
 layout: post
 title:  Survival Trial News - December 19, 2015
 date:   2015-12-19  
-image:  images/@stock/amerst.png
+image:  images/@stock/stnews.png
 excerpt:  Vol 1 - Issue 2. 
 
 categories: about
