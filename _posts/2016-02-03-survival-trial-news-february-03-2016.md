@@ -11,7 +11,7 @@ author: Jon Weiler
 comments:  true
 ---
 
-![America's Survival Trial]({{ site.url }}/images/articles/news/amerst.png)
+![America's Survival Trial]({{ site.url }}/images/articles/amerst.png)
 
 # Survival Trial - Choose Your Own Adventure!
 
