@@ -21,7 +21,7 @@ comments:  true
 
 **The reports in this newsletter are fictional and intended to set the stage around the scenarios and situations in the 2016 Survival Trial Arenas.  Every Survival Trial incorporates news articles into the Defensive and Survival Situations to help solidify the relevancy of the Ultimate Test.  Training for Survival Trial should be Training for Everyday.  This means our ST Arenas must reflect the potentials in our everyday lives...** 
 
-![Shotgun Square Bombing]({{ site.url }}/images/articles/news/stvigil.jpg)
+![Shotgun Square Bombing]({{ site.url }}/images/articles/news/stigil.jpg)
 
 ## Cleanup after the News Years, Shotgun Square Bombing.
 
@@ -49,6 +49,7 @@ The US Dollar continues its decline over the past weeks, falling far below its c
 
 "It's almost as if someone just flipped a switch and things changed overnight," stated a clearly exasperated Financial Trader after Friday morning's shocking opening.
 
+[Click here for the article...](http://www.washingtonpost.com/wp-srv/business/articles/argentinatimeline.html)
 
 
 ![Riot]({{ site.url }}/images/articles/news/striot.jpg)
