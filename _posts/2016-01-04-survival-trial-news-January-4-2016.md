@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ST News - January 4, 2016
-date:   2016-01-04 10:22:12
+date:   2016-01-04 
 image:  images/@stock/amerst.png
 excerpt:  Volume 1:  Issue 3
 
